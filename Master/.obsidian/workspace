@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/easy peasy/surface.md",
+            "file": "Priv Esc/Enumeration.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/easy peasy/surface.md",
+                "file": "Priv Esc/Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "42ff636c015254be",
   "lastOpenFiles": [
+    "Priv Esc/Enumeration.md",
+    "Priv Esc/Chisel.md",
+    "Priv Esc/Untitled.md",
     "Boxes/TryHackMe/easy peasy/surface.md",
     "Boxes/TryHackMe/easy peasy/priv esc.md",
     "Boxes/TryHackMe/easy peasy/Untitled.md",
     "Boxes/TryHackMe/easy peasy/Untitled 2.md",
     "Boxes/TryHackMe/easy peasy/Untitled 1.md",
     "Boxes/TryHackMe/easy peasy/nmap.md",
-    "Boxes/TryHackMe/easy peasy/gobuster.md",
-    "Boxes/TryHackMe/Blue/nmap.md",
-    "Boxes/TryHackMe/Blue/Untitled.md",
-    "Untitled.md"
+    "Boxes/TryHackMe/easy peasy/gobuster.md"
   ]
 }
