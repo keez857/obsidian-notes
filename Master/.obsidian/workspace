@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/Blue/nmap.md",
+            "file": "Boxes/TryHackMe/easy peasy/surface.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/Blue/nmap.md",
+                "file": "Boxes/TryHackMe/easy peasy/surface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,15 @@
   },
   "active": "42ff636c015254be",
   "lastOpenFiles": [
+    "Boxes/TryHackMe/easy peasy/surface.md",
+    "Boxes/TryHackMe/easy peasy/priv esc.md",
+    "Boxes/TryHackMe/easy peasy/Untitled.md",
+    "Boxes/TryHackMe/easy peasy/Untitled 2.md",
+    "Boxes/TryHackMe/easy peasy/Untitled 1.md",
+    "Boxes/TryHackMe/easy peasy/nmap.md",
+    "Boxes/TryHackMe/easy peasy/gobuster.md",
+    "Boxes/TryHackMe/Blue/nmap.md",
     "Boxes/TryHackMe/Blue/Untitled.md",
-    "Untitled.md",
-    "Boxes/TryHackMe/Blue/credentials.md",
-    "TryHackMe/test thm folder/test thm note.md",
-    "TryHackMe/test thm folder/Untitled.md",
-    "HackTheBox/testing.md",
-    "Testing.md",
-    "HackTheBox/Untitled.md"
+    "Untitled.md"
   ]
 }
