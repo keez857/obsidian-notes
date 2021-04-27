@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Testing.md",
+            "file": "TryHackMe/test thm folder/test thm note.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.md",
+                "file": "TryHackMe/test thm folder/test thm note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,10 @@
   },
   "active": "1366b0e0e81ceeaf",
   "lastOpenFiles": [
+    "TryHackMe/test thm folder/Untitled.md",
+    "HackTheBox/testing.md",
+    "Testing.md",
+    "HackTheBox/Untitled.md",
     "Untitled.md"
   ]
 }
