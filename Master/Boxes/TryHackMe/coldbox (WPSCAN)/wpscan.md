@@ -1,7 +1,9 @@
+## wpscan --url 10.10.228.176 -e vp,vt,u 
+
 ```bash
 
 [+] URL: http://10.10.228.176/ [10.10.228.176]
-[+] Started: Thu Apr 29 16:58:49 2021
+[+] Started: Thu Apr 29 17:18:58 2021
 
 Interesting Finding(s):
 
@@ -54,25 +56,47 @@ Interesting Finding(s):
  | Found By: Style (Passive Detection)
  |  - http://10.10.228.176/wp-content/themes/twentyfifteen/style.css?ver=4.1.31, Match: 'Version: 1.0'
 
-[+] Enumerating All Plugins (via Passive Methods)
+[+] Enumerating Vulnerable Plugins (via Passive Methods)
 
 [i] No plugins Found.
 
-[+] Enumerating Config Backups (via Passive and Aggressive Methods)
- Checking Config Backups - Time: 00:00:04 <================================> (137 / 137) 100.00% Time: 00:00:04
+[+] Enumerating Vulnerable Themes (via Passive and Aggressive Methods)
+ Checking Known Locations - Time: 00:00:09 <================================> (345 / 345) 100.00% Time: 00:00:09
+[+] Checking Theme Versions (via Passive and Aggressive Methods)
 
-[i] No Config Backups Found.
+[i] No themes Found.
+
+[+] Enumerating Users (via Passive and Aggressive Methods)
+ Brute Forcing Author IDs - Time: 00:00:00 <==================================> (10 / 10) 100.00% Time: 00:00:00
+
+[i] User(s) Identified:
+
+[+] the cold in person
+ | Found By: Rss Generator (Passive Detection)
+
+[+] hugo
+ | Found By: Author Id Brute Forcing - Author Pattern (Aggressive Detection)
+ | Confirmed By: Login Error Messages (Aggressive Detection)
+
+[+] philip
+ | Found By: Author Id Brute Forcing - Author Pattern (Aggressive Detection)
+ | Confirmed By: Login Error Messages (Aggressive Detection)
+
+[+] c0ldd
+ | Found By: Author Id Brute Forcing - Author Pattern (Aggressive Detection)
+ | Confirmed By: Login Error Messages (Aggressive Detection)
 
 [!] No WPScan API Token given, as a result vulnerability data has not been output.
 [!] You can get a free API token with 25 daily requests by registering at https://wpscan.com/register
 
-[+] Finished: Thu Apr 29 16:59:01 2021
-[+] Requests Done: 170
-[+] Cached Requests: 5
-[+] Data Sent: 43.091 KB
-[+] Data Received: 239.715 KB
-[+] Memory used: 203.738 MB
-[+] Elapsed time: 00:00:11
+[+] Finished: Thu Apr 29 17:19:13 2021
+[+] Requests Done: 362
+[+] Cached Requests: 52
+[+] Data Sent: 94.677 KB
+[+] Data Received: 65.514 KB
+[+] Memory used: 211.535 MB
+[+] Elapsed time: 00:00:15
+
 
 ```
 
