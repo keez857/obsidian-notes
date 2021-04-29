@@ -1,3 +1,4 @@
+```bash
 gobuster dir -u 10.10.127.160 -w /usr/share/wordlists/dirb/common.txt -x php,html,js
 
 
