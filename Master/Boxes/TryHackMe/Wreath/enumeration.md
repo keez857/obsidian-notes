@@ -2,7 +2,9 @@ Attempting to access the web page via IP address does not work. DNS is not confi
 \
 (https://thomaswreath.thm)\
 \
-We add this to our /etc/hosts file\
+We add this to our /etc/hosts file
 
 ```bash
 10.200.84.200	thomaswreath.thm
+```
+
