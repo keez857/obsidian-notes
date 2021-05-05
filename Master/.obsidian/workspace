@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/coldbox (WPSCAN)/enum.md",
-            "mode": "preview"
+            "file": "Basics/http/Status codes.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/coldbox (WPSCAN)/enum.md",
+                "file": "Basics/http/Status codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "42ff636c015254be",
   "lastOpenFiles": [
+    "Basics/http/Untitled.md",
     "Boxes/TryHackMe/coldbox (WPSCAN)/enum.md",
     "Boxes/TryHackMe/coldbox (WPSCAN)/priv esc.md",
     "Boxes/TryHackMe/coldbox (WPSCAN)/wpscan.md",
@@ -96,7 +97,6 @@
     "Rev shells/php.md",
     "osi.png",
     "osi.png.md",
-    "Basics/OSI Model.md",
-    "Basics/Untitled.md"
+    "Basics/OSI Model.md"
   ]
 }
