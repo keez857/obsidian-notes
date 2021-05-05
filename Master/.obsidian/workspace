@@ -88,6 +88,8 @@
   },
   "active": "42ff636c015254be",
   "lastOpenFiles": [
+    "Boxes/TryHackMe/Wreath/enumeration.md",
+    "Boxes/TryHackMe/Wreath/00 - port scan.md",
     "Boxes/TryHackMe/Wreath/Untitled.md",
     "Basics/http/Untitled.md",
     "Boxes/TryHackMe/coldbox (WPSCAN)/enum.md",
@@ -95,8 +97,6 @@
     "Boxes/TryHackMe/coldbox (WPSCAN)/wpscan.md",
     "Boxes/TryHackMe/coldbox (WPSCAN)/gobuster.md",
     "Basics/Networking/OSI Model.md",
-    "Rev shells/php.md",
-    "osi.png",
-    "osi.png.md"
+    "Rev shells/php.md"
   ]
 }

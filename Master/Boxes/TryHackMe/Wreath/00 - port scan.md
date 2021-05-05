@@ -71,5 +71,3 @@ PORT      STATE SERVICE  REASON  VERSION
 |_  Supported Methods: GET HEAD POST OPTIONS
 |_http-title: Site doesn't have a title (text/html; Charset=iso-8859-1).
 ```
-
-Based on the headers of the webserver, we can deduce that centos is the OS on the machine.
