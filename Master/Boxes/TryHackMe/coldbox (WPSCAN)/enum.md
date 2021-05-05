@@ -4,9 +4,9 @@ C0ldd, you changed Hugo's password, when you can send it to him so he can contin
 
 
 ## Users found using wpscan:
-hugo
-philip
-c0ldd
+-hugo
+-philip
+-c0ldd
 
 ## using wpscan to brute force, we get c0ldd's credentials
 ```bash 
