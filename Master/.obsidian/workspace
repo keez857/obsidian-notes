@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/Networking/OSI Model.md",
+            "file": "Boxes/TryHackMe/coldbox (WPSCAN)/enum.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/Networking/OSI Model.md",
+                "file": "Boxes/TryHackMe/coldbox (WPSCAN)/enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "42ff636c015254be",
   "lastOpenFiles": [
+    "Boxes/TryHackMe/coldbox (WPSCAN)/enum.md",
+    "Boxes/TryHackMe/coldbox (WPSCAN)/priv esc.md",
+    "Boxes/TryHackMe/coldbox (WPSCAN)/wpscan.md",
+    "Boxes/TryHackMe/coldbox (WPSCAN)/gobuster.md",
     "Basics/Networking/OSI Model.md",
     "Rev shells/php.md",
     "osi.png",
     "osi.png.md",
     "Basics/OSI Model.md",
-    "Basics/Untitled.md",
-    "Boxes/TryHackMe/coldbox (WPSCAN)/enum.md",
-    "Boxes/TryHackMe/coldbox (WPSCAN)/gobuster.md",
-    "Boxes/TryHackMe/coldbox (WPSCAN)/nmap.md",
-    "Boxes/TryHackMe/coldbox (WPSCAN)/priv esc.md"
+    "Basics/Untitled.md"
   ]
 }

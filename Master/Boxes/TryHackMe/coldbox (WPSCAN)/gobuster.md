@@ -1,6 +1,8 @@
-```bash
+```bash 
 gobuster dir -u 10.10.127.160 -w /usr/share/wordlists/dirb/common.txt -x php,html,js
+```
 
+```bash
 
 /.hta (Status: 403)
 /.hta.php (Status: 403)
@@ -34,3 +36,6 @@ gobuster dir -u 10.10.127.160 -w /usr/share/wordlists/dirb/common.txt -x php,htm
 /xmlrpc.php (Status: 200)
 /xmlrpc.php (Status: 200)
 
+
+
+^f0d192

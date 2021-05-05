@@ -25,3 +25,5 @@ This can be edited by going to Appearance > Editor
 Visiting the 
 http://10.10.226.162/wp-content/themes/twentyfifteen/404.php
 will exec the code.
+
+
