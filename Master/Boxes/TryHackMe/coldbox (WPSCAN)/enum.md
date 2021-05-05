@@ -22,6 +22,7 @@ wpscan --url http://10.10.228.176/ -U c0ldd,hugo,philip /usr/share/wordlists/roc
 
 I chose to change the 404.php page to exec the php reverse shell. 
 This can be edited by going to Appearance > Editor
+
 Visiting the 
 http://10.10.226.162/wp-content/themes/twentyfifteen/404.php
 will exec the code.
