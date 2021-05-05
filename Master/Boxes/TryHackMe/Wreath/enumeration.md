@@ -10,6 +10,6 @@ We add this to our /etc/hosts file
 10.200.84.200	thomaswreath.thm
 ```
 
-Looking at port 10000, we see that it is running MiniServ 1.890 (Webmin httpd)
+Looking at port 10000, we see that it is running **MiniServ 1.890 (Webmin httpd)**
 
 Google search reveals there is a RCE exploit for this: **CVE-2019-15107**
