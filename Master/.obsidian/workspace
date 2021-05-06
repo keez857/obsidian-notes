@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/Wreath/enumeration 02.md",
+            "file": "Basics/SSH Tunnelling/Forward connections.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/Wreath/enumeration 02.md",
+                "file": "Basics/SSH Tunnelling/Forward connections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "42ff636c015254be",
   "lastOpenFiles": [
+    "Basics/SSH Tunnelling/Forward connections.md",
+    "Basics/SSH Tunnelling/Untitled.md",
+    "Basics/ssh Tunnelling/Untitled.md",
+    "Basics/Untitled.md",
     "Boxes/TryHackMe/Wreath/Untitled.md",
     "Boxes/TryHackMe/Wreath/Foothold 01.md",
     "Boxes/TryHackMe/Wreath/enumeration 01.md",
     "Boxes/TryHackMe/Wreath/enumeration.md",
     "Priv Esc/Stabilize shell.md",
-    "Boxes/TryHackMe/Wreath/00 - port scan.md",
-    "Basics/http/Untitled.md",
-    "Boxes/TryHackMe/coldbox (WPSCAN)/enum.md",
-    "Boxes/TryHackMe/coldbox (WPSCAN)/priv esc.md",
-    "Boxes/TryHackMe/coldbox (WPSCAN)/wpscan.md"
+    "Boxes/TryHackMe/Wreath/00 - port scan.md"
   ]
 }
