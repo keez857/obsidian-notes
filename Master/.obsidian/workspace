@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Basics/SSH Tunnelling/Forward connections.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -89,6 +89,7 @@
   "active": "42ff636c015254be",
   "lastOpenFiles": [
     "Basics/SSH Tunnelling/Forward connections.md",
+    "Basics/SSH Tunnelling/Reverse connections.md",
     "Basics/SSH Tunnelling/Untitled.md",
     "Basics/ssh Tunnelling/Untitled.md",
     "Basics/Untitled.md",
@@ -96,7 +97,6 @@
     "Boxes/TryHackMe/Wreath/Foothold 01.md",
     "Boxes/TryHackMe/Wreath/enumeration 01.md",
     "Boxes/TryHackMe/Wreath/enumeration.md",
-    "Priv Esc/Stabilize shell.md",
-    "Boxes/TryHackMe/Wreath/00 - port scan.md"
+    "Priv Esc/Stabilize shell.md"
   ]
 }

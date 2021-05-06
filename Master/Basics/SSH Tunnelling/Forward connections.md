@@ -10,6 +10,7 @@ We use the following command to create a link to the webserver:
 `ssh -L 8000:172.16.0.10:80 user@172.16.0.5 -fN`
 <font size="2"> (note: `-f` backgrounds the shell. `-N` tells SSH it doesn't need to exec any commands -- only set up the connection) </font>
 
+**In this scenario you are forwarding the access that host .5 has to .10 to port 8000 on your attack machine**
 
 We could then access the website on 172.16.0.10 (through 172.16.0.5) by navigating to port 8000 _on our own_ _attacking machine._
 
