@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/SSH Tunnelling/Forward connections.md",
-            "mode": "source"
+            "file": "Basics/Pivoting/Socat/Port Forwarding.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/SSH Tunnelling/Forward connections.md",
+                "file": "Basics/Pivoting/Socat/Port Forwarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "42ff636c015254be",
   "lastOpenFiles": [
+    "Basics/Pivoting/Socat/Untitled.md",
+    "Priv Esc/Chisel.md",
     "Basics/SSH Tunnelling/Forward connections.md",
     "Basics/SSH Tunnelling/Reverse connections.md",
     "Basics/SSH Tunnelling/Untitled.md",
@@ -95,8 +97,6 @@
     "Basics/Untitled.md",
     "Boxes/TryHackMe/Wreath/Untitled.md",
     "Boxes/TryHackMe/Wreath/Foothold 01.md",
-    "Boxes/TryHackMe/Wreath/enumeration 01.md",
-    "Boxes/TryHackMe/Wreath/enumeration.md",
-    "Priv Esc/Stabilize shell.md"
+    "Boxes/TryHackMe/Wreath/enumeration 01.md"
   ]
 }

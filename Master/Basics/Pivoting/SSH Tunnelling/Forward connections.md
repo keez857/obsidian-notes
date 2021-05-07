@@ -12,7 +12,9 @@ We use the following command to create a link to the webserver:
 
 **In this scenario you are forwarding the access that host .5 has to .10 to port 8000 on your attack machine**
 
-We could then access the website on 172.16.0.10 (through 172.16.0.5) by navigating to port 8000 _on our own_ _attacking machine._
+---
+
+We could then access the website on 172.16.0.10 by navigating to port 8000 _on our own_ _attacking machine._
 
 We can do this by entering `localhost:8000` into a web browser 
 
