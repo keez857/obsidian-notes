@@ -14,9 +14,7 @@ We use the following command to create a link to the webserver:
 
 ---
 
-We could then access the website on 172.16.0.10 by navigating to port 8000 _on our own_ _attacking machine._
-
-We can do this by entering `localhost:8000` into a web browser 
+We could then access the website on 172.16.0.10 by navigating to `localhost:8000` in our browser
 
 ---
 
