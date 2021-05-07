@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/Pivoting/Chisel/Local Port Forward.md",
+            "file": "Basics/Pivoting/Chisel/Remote Port Forward.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/Pivoting/Chisel/Local Port Forward.md",
+                "file": "Basics/Pivoting/Chisel/Remote Port Forward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "42ff636c015254be",
   "lastOpenFiles": [
+    "Basics/Pivoting/Chisel/Remote Port Forward.md",
+    "Basics/Pivoting/Chisel/SOCKS Proxies.md",
     "Basics/Pivoting/Chisel/Untitled.md",
     "Basics/Pivoting/SSH Tunnelling/Forward connections.md",
     "Basics/Pivoting/Socat/Port Forwarding.md",
@@ -95,8 +97,6 @@
     "Basics/Pivoting/Socat/Reverse Shell Relay.md",
     "Basics/Pivoting/Socat/Untitled.md",
     "Priv Esc/Chisel.md",
-    "Basics/SSH Tunnelling/Forward connections.md",
-    "Basics/SSH Tunnelling/Reverse connections.md",
-    "Basics/SSH Tunnelling/Untitled.md"
+    "Basics/SSH Tunnelling/Forward connections.md"
   ]
 }
