@@ -8,8 +8,8 @@ Open up a listening port on the compromised box, redirect traffic that comes int
 
 This opens port 33060 on compromised box and redirects input from attacking machine to target server.
 
-`fork` - puts every connection into a new process
-`reuseaddr` - port stays open after a connection is made to it
+`fork` - puts every connection into a new process\
+`reuseaddr` - port stays open after a connection is made to it\
 `&` - backgrounds the shell
 
 Combined, this allows us to use same port forward for more than one connection
