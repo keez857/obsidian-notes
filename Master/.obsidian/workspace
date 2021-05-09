@@ -89,14 +89,14 @@
   "active": "42ff636c015254be",
   "lastOpenFiles": [
     "Boxes/HackTheBox/Tenet/enumeration.md",
-    "Boxes/TryHackMe/coldbox (WPSCAN)/enum.md",
+    "Priv Esc/Stabilize shell.md",
+    "Boxes/HackTheBox/Tenet/feroxbuster.md",
     "Boxes/HackTheBox/Tenet/wpscan.md",
+    "Boxes/TryHackMe/coldbox (WPSCAN)/enum.md",
     "Boxes/TryHackMe/coldbox (WPSCAN)/wpscan.md",
     "Boxes/HackTheBox/Tenet/Untitled.md",
-    "Boxes/HackTheBox/Tenet/feroxbuster.md",
     "Boxes/HackTheBox/Tenet/00 - nmap.md",
     "Basics/Pivoting/Chisel/Local Port Forward.md",
-    "Basics/Pivoting/Chisel/Remote Port Forward.md",
-    "Basics/Pivoting/Chisel/SOCKS Proxies.md"
+    "Basics/Pivoting/Chisel/Remote Port Forward.md"
   ]
 }

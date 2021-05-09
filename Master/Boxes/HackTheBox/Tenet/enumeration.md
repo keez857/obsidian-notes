@@ -11,6 +11,16 @@ Reveals the following message:
 did you remove the sator php file and the backup?? the migration program is incomplete! why would you do this?!
 ```
 
+There is some text at http://10.10.10.223/sator.php
+```
+[+] Grabbing users from text file  
+[] Database updated
+```
+
+Because the comment mentioned a backup, we can try
+http://10.10.10.223/sator.php.bak (needed a hint for this)
+This allows us to download the .bak file
+
 ---
 
 We have also found 2 usernames from wpscan:
@@ -19,5 +29,8 @@ We have also found 2 usernames from wpscan:
 
 ---
 
+wpscan tells us xmlrpc is enabled which means we can brute force
 Perform a wpscan brute force attack with the two usernames
 `wpscan --url tenet.htb -U neil,protagonist -=passwords /usr/share/wordlists/rockyou.txt`
+
+**NO RESULTS**
