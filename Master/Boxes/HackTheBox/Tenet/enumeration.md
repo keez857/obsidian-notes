@@ -18,8 +18,42 @@ There is some text at http://10.10.10.223/sator.php
 ```
 
 Because the comment mentioned a backup, we can try
-http://10.10.10.223/sator.php.bak (needed a hint for this)
+http://10.10.10.223/sator.php.bak **(needed a hint for this)**
 This allows us to download the .bak file
+
+File contents:
+```php
+<?php
+
+class DatabaseExport
+{
+        public $user_file = 'users.txt';
+        public $data = '';
+
+        public function update_db()
+        {
+                echo '[+] Grabbing users from text file <br>';
+                $this-> data = 'Success';
+        }
+
+
+        public function __destruct()
+        {
+                file_put_contents(__DIR__ . '/' . $this ->user_file, $this->data);
+                echo '[] Database updated <br>';
+        //      echo 'Gotta get this working properly...';
+        }
+}
+
+$input = $_GET['arepo'] ?? '';
+$databaseupdate = unserialize($input);
+
+$app = new DatabaseExport;
+$app -> update_db();
+
+
+?>
+```
 
 ---
 
