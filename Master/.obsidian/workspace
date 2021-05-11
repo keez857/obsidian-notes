@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/Wreath/Pivoting 01.md",
-            "mode": "preview"
+            "file": "Boxes/TryHackMe/Wreath/Foothold 02.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/Wreath/Pivoting 01.md",
+                "file": "Boxes/TryHackMe/Wreath/Foothold 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "42ff636c015254be",
   "lastOpenFiles": [
-    "Boxes/TryHackMe/Wreath/Pivoting 01.md",
+    "Boxes/TryHackMe/Wreath/Foothold 02.md",
     "Boxes/TryHackMe/Wreath/enumeration 03.md",
+    "Boxes/TryHackMe/Wreath/Pivoting 01.md",
     "Boxes/TryHackMe/Wreath/Untitled.md",
-    "Boxes/TryHackMe/Wreath/enumeration 02.md",
+    "Basics/Pivoting/Socat/Reverse Shell Relay.md",
     "Boxes/TryHackMe/Wreath/Foothold 01.md",
+    "Boxes/TryHackMe/Wreath/enumeration 02.md",
     "Boxes/TryHackMe/Wreath/enumeration 01.md",
     "Boxes/HackTheBox/Tenet/feroxbuster.md",
-    "Boxes/HackTheBox/Tenet/enumeration.md",
-    "Boxes/HackTheBox/Tenet/00 - nmap.md",
-    "Priv Esc/Stabilize shell.md"
+    "Boxes/HackTheBox/Tenet/enumeration.md"
   ]
 }
