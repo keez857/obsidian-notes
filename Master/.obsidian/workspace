@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/Wreath/Foothold 02.md",
+            "file": "Basics/xfreerdp.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/Wreath/Foothold 02.md",
+                "file": "Basics/xfreerdp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "42ff636c015254be",
   "lastOpenFiles": [
+    "Basics/xfreerdp.md",
     "Boxes/TryHackMe/Wreath/Foothold 02.md",
-    "Boxes/TryHackMe/Wreath/enumeration 03.md",
     "Boxes/TryHackMe/Wreath/Pivoting 01.md",
+    "Boxes/TryHackMe/Wreath/enumeration 03.md",
+    "Basics/Untitled.md",
     "Boxes/TryHackMe/Wreath/Untitled.md",
     "Basics/Pivoting/Socat/Reverse Shell Relay.md",
     "Boxes/TryHackMe/Wreath/Foothold 01.md",
     "Boxes/TryHackMe/Wreath/enumeration 02.md",
-    "Boxes/TryHackMe/Wreath/enumeration 01.md",
-    "Boxes/HackTheBox/Tenet/feroxbuster.md",
-    "Boxes/HackTheBox/Tenet/enumeration.md"
+    "Boxes/TryHackMe/Wreath/enumeration 01.md"
   ]
 }
