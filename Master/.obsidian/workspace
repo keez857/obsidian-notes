@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/xfreerdp.md",
+            "file": "Boxes/TryHackMe/Wreath/Foothold 02.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/xfreerdp.md",
+                "file": "Boxes/TryHackMe/Wreath/Foothold 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "42ff636c015254be",
   "lastOpenFiles": [
-    "Basics/xfreerdp.md",
     "Boxes/TryHackMe/Wreath/Foothold 02.md",
     "Boxes/TryHackMe/Wreath/Pivoting 01.md",
+    "Basics/xfreerdp.md",
     "Boxes/TryHackMe/Wreath/enumeration 03.md",
     "Basics/Untitled.md",
     "Boxes/TryHackMe/Wreath/Untitled.md",
