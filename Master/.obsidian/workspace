@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/alfred/03 - enumeration.md",
-            "mode": "preview"
+            "file": "Boxes/TryHackMe/alfred/06 - enumeration.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/alfred/03 - enumeration.md",
+                "file": "Boxes/TryHackMe/alfred/06 - enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,14 +89,14 @@
   "active": "42ff636c015254be",
   "lastOpenFiles": [
     "Boxes/TryHackMe/alfred/Untitled.md",
+    "Boxes/TryHackMe/alfred/05 - priv esc.md",
+    "Basics/Untitled.md",
+    "Boxes/TryHackMe/alfred/03 - enumeration.md",
     "Boxes/TryHackMe/alfred/00 - port scan.md",
     "Boxes/TryHackMe/Wreath/06 - C&C with Empire.md",
     "Boxes/TryHackMe/Wreath/05 - Foothold 02.md",
     "Boxes/TryHackMe/Wreath/04 - Pivoting 01.md",
     "Boxes/TryHackMe/Wreath/02 - Foothold 01.md",
-    "Boxes/TryHackMe/Wreath/01 - enumeration 01.md",
-    "Boxes/TryHackMe/Wreath/00 - port scan.md",
-    "Boxes/TryHackMe/Wreath/10 - Command and Control.md",
-    "Boxes/TryHackMe/Wreath/Foothold 02.md"
+    "Boxes/TryHackMe/Wreath/01 - enumeration 01.md"
   ]
 }
