@@ -34,6 +34,9 @@ We are now NT AUTHORITY\SYSTEM
 
 ---
 
+Next we need to migrate, preferably to services.exe
+Now we have a root shell
+
 
 
 adubs808: SeImpersonate is a good sign of a privesc vector. Usually service accounts will have that ability.

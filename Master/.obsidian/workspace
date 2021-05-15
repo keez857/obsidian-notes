@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/alfred/06 - enumeration.md",
+            "file": "Boxes/TryHackMe/alfred/06 - priv esc 2.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/alfred/06 - enumeration.md",
+                "file": "Boxes/TryHackMe/alfred/06 - priv esc 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
