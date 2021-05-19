@@ -3,11 +3,11 @@ See [[03 - enumeration 02]]
 
 ---
 
-We can use sshuttle to create a tunnel to our next target @ **10.200.84.150:80**
+We can use sshuttle to create a tunnel to our next target @ **10.200.100.150:80**
 
-`sshuttle -r root@10.200.84.200 --ssh-cmd "ssh -i id_rsa" 10.200.84.0/24`
+`sshuttle -r root@10.200.100.200 --ssh-cmd "ssh -i id_rsa" 10.200.100.0/24`
 
-We can now access http://10.200.84.150
+We can now access http://10.200.100.150
 
 This page reveals that it is running **gitstack**
 
