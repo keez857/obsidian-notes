@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/Wreath/06 - C&C with Empire.md",
-            "mode": "preview"
+            "file": "Boxes/TryHackMe/Wreath/07 - evil-winrm.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/Wreath/06 - C&C with Empire.md",
+                "file": "Boxes/TryHackMe/Wreath/07 - evil-winrm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "42ff636c015254be",
   "lastOpenFiles": [
-    "Boxes/TryHackMe/Wreath/06 - C&C with Empire.md",
+    "Boxes/TryHackMe/Wreath/07 - evil-winrm.md",
     "Boxes/TryHackMe/Wreath/04 - Pivoting 01.md",
     "Boxes/TryHackMe/Wreath/03 - enumeration 02.md",
+    "Boxes/TryHackMe/Wreath/02 - Foothold 01.md",
     "Boxes/TryHackMe/Wreath/05 - Foothold 02.md",
+    "Boxes/TryHackMe/Wreath/06 - C&C with Empire.md",
+    "Boxes/TryHackMe/Wreath/Untitled.md",
     "Boxes/TryHackMe/alfred/Untitled.md",
     "Boxes/TryHackMe/alfred/05 - priv esc.md",
-    "Basics/Untitled.md",
-    "Boxes/TryHackMe/alfred/03 - enumeration.md",
-    "Boxes/TryHackMe/alfred/00 - port scan.md",
-    "Boxes/TryHackMe/Wreath/02 - Foothold 01.md"
+    "Basics/Untitled.md"
   ]
 }
