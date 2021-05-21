@@ -14,3 +14,5 @@ compromised: 172.16.0.5:**8000**
 
 Run command on attack box to forward local port **2222** to our target:\
 `./chisel client 172.16.0.5:8000 2222:172.16.0.10:22`
+
+
