@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/Wreath/09 - Enumeration 03.md",
+            "file": "Basics/AV Evasion/Basics.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/Wreath/09 - Enumeration 03.md",
+                "file": "Basics/AV Evasion/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "42ff636c015254be",
   "lastOpenFiles": [
+    "Basics/AV Evasion/Untitled.md",
+    "Boxes/TryHackMe/Wreath/10 - Foothold 03.md",
     "Boxes/TryHackMe/Wreath/09 - Enumeration 03.md",
-    "Boxes/TryHackMe/Wreath/05 - Foothold 02.md",
     "Boxes/TryHackMe/Wreath/Untitled.md",
     "Boxes/TryHackMe/Wreath/08 - Pivoting 02.md",
-    "Basics/Pivoting/Chisel/SOCKS Proxies.md",
-    "Basics/Pivoting/Chisel/Local Port Forward.md",
     "Boxes/TryHackMe/Wreath/07 - evil-winrm.md",
-    "Basics/Pivoting/Chisel/Remote Port Forward.md",
-    "Basics/Pivoting/Chisel/General.md",
-    "Basics/xfreerdp.md"
+    "Boxes/TryHackMe/Wreath/06 - C&C with Empire.md",
+    "Boxes/TryHackMe/Wreath/05 - Foothold 02.md",
+    "Boxes/TryHackMe/Wreath/04 - Pivoting 01.md",
+    "Boxes/TryHackMe/Wreath/03 - enumeration 02.md"
   ]
 }

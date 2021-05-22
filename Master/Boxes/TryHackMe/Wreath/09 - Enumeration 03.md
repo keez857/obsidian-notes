@@ -31,3 +31,31 @@ Based on the parents for each commit, the order
 1.  70dde80cc19ec76704567996738894828f4ee895
 2.  82dfc97bec0d7582d485d9031c09abcb5c6b18f2
 3.  345ac8b236064b431fa43f53d91c98c4834ef8f3
+
+Now we know that #3 is the latest build
+
+---
+
+We can search for php files to exploit
+
+`find . -name "*.php"`
+
+We find /resources/index.php
+
+This is a file upload point. There is also basic auth on this page as noted in the comments
+
+---
+
+After analyzing the .php we can see that it uses a php technique that uses `getimagesize()` to check for exif data.
+
+This helps to determine if the file uploaded is actually an 
+
+---
+
+Between lines 4 and 15:  
+`$target = "uploads/".basename($_FILES["file"]["name"]);  
+...  
+move_uploaded_file($_FILES["file"]["tmp_name"], $target);  
+`  
+
+We can see that the file will get moved into an `uploads/` directory with it's original name, assuming it passed the two filters.
