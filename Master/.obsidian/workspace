@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/AV Evasion/Fundamentals.md",
+            "file": "Boxes/TryHackMe/Wreath/11 - priv esc.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/AV Evasion/Fundamentals.md",
+                "file": "Boxes/TryHackMe/Wreath/11 - priv esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Boxes/TryHackMe/Wreath/Untitled.md",
+    "Boxes/TryHackMe/Wreath/10 - Foothold 03.md",
+    "Boxes/TryHackMe/Wreath/08 - Pivoting 02.md",
+    "Boxes/TryHackMe/Wreath/09 - Enumeration 03.md",
     "Basics/AV Evasion/Basics.md",
     "Basics/AV Evasion/Untitled.md",
-    "Boxes/TryHackMe/Wreath/10 - Foothold 03.md",
-    "Boxes/TryHackMe/Wreath/09 - Enumeration 03.md",
-    "Boxes/TryHackMe/Wreath/Untitled.md",
-    "Boxes/TryHackMe/Wreath/08 - Pivoting 02.md",
     "Boxes/TryHackMe/Wreath/07 - evil-winrm.md",
     "Boxes/TryHackMe/Wreath/06 - C&C with Empire.md",
     "Boxes/TryHackMe/Wreath/05 - Foothold 02.md",
