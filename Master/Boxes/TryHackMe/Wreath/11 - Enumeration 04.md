@@ -17,3 +17,17 @@ SystemExplorerHelpService is exploitable via
 
 ---
 
+Check to see which account the service runs under
+
+`sc qc SystemExplorerHelpService`
+
+We can see the service is running on a local system account
+`SERVICE_START_NAME : LocalSystem`
+
+Let's check the permissions on the directory. If we can write to it, we are golden:  
+`powershell "get-acl -Path 'C:\Program Files (x86)\System Explorer' | format-list"`
+
+We cab see we have full control of the exploitable directory
+`Access : BUILTIN\Users Allow  FullControl`
+
+
