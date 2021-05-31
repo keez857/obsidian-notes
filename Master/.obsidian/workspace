@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/Wreath/13 - Exfiltration.md",
+            "file": "Boxes/TryHackMe/Overpass 2/PCAP Analysis.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/Wreath/13 - Exfiltration.md",
+                "file": "Boxes/TryHackMe/Overpass 2/PCAP Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Boxes/TryHackMe/Overpass 2/Untitled.md",
     "Boxes/TryHackMe/Wreath/Untitled.md",
     "Boxes/TryHackMe/Wreath/12 - Priv Esc.md",
     "Priv Esc/Shell Stabilization.md",
@@ -96,7 +97,6 @@
     "Boxes/TryHackMe/Wreath/08 - Pivoting 02.md",
     "Boxes/TryHackMe/Wreath/09 - Enumeration 03.md",
     "Basics/AV Evasion/Basics.md",
-    "Basics/AV Evasion/Untitled.md",
-    "Boxes/TryHackMe/Wreath/07 - evil-winrm.md"
+    "Basics/AV Evasion/Untitled.md"
   ]
 }
