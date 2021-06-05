@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/Overpass 2/PCAP Analysis.md",
+            "file": "Boxes/TryHackMe/Overpass 2/Foothold and Priv Esc.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/Overpass 2/PCAP Analysis.md",
+                "file": "Boxes/TryHackMe/Overpass 2/Foothold and Priv Esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Boxes/TryHackMe/Overpass 2/Foothold.md",
+    "Boxes/TryHackMe/Overpass 2/PCAP Analysis.md",
+    "Boxes/TryHackMe/Overpass 2/shadow file.md",
+    "Priv Esc/Enumeration.md",
+    "Boxes/TryHackMe/Overpass 2/Attacker Bash History.md",
+    "Boxes/TryHackMe/Overpass 2/Code analysis.md",
+    "Priv Esc/Shell Stabilization.md",
     "Boxes/TryHackMe/Overpass 2/Untitled.md",
     "Boxes/TryHackMe/Wreath/Untitled.md",
-    "Boxes/TryHackMe/Wreath/12 - Priv Esc.md",
-    "Priv Esc/Shell Stabilization.md",
-    "Boxes/TryHackMe/Wreath/11 - priv esc.md",
-    "Boxes/TryHackMe/Wreath/10 - Foothold 03.md",
-    "Boxes/TryHackMe/Wreath/08 - Pivoting 02.md",
-    "Boxes/TryHackMe/Wreath/09 - Enumeration 03.md",
-    "Basics/AV Evasion/Basics.md",
-    "Basics/AV Evasion/Untitled.md"
+    "Boxes/TryHackMe/Wreath/12 - Priv Esc.md"
   ]
 }
