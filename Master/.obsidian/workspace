@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/Overpass 2/Foothold and Priv Esc.md",
+            "file": "Recon/recon-ng.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/Overpass 2/Foothold and Priv Esc.md",
+                "file": "Recon/recon-ng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Recon/Untitled.md",
+    "Basics/recon-ng/Untitled.md",
     "Boxes/TryHackMe/Overpass 2/Foothold.md",
     "Boxes/TryHackMe/Overpass 2/PCAP Analysis.md",
     "Boxes/TryHackMe/Overpass 2/shadow file.md",
@@ -95,8 +97,6 @@
     "Boxes/TryHackMe/Overpass 2/Attacker Bash History.md",
     "Boxes/TryHackMe/Overpass 2/Code analysis.md",
     "Priv Esc/Shell Stabilization.md",
-    "Boxes/TryHackMe/Overpass 2/Untitled.md",
-    "Boxes/TryHackMe/Wreath/Untitled.md",
-    "Boxes/TryHackMe/Wreath/12 - Priv Esc.md"
+    "Boxes/TryHackMe/Overpass 2/Untitled.md"
   ]
 }
