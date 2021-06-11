@@ -88,6 +88,7 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Recon/recon-ng.md",
     "Recon/Untitled.md",
     "Basics/recon-ng/Untitled.md",
     "Boxes/TryHackMe/Overpass 2/Foothold.md",
@@ -96,7 +97,6 @@
     "Priv Esc/Enumeration.md",
     "Boxes/TryHackMe/Overpass 2/Attacker Bash History.md",
     "Boxes/TryHackMe/Overpass 2/Code analysis.md",
-    "Priv Esc/Shell Stabilization.md",
-    "Boxes/TryHackMe/Overpass 2/Untitled.md"
+    "Priv Esc/Shell Stabilization.md"
   ]
 }
