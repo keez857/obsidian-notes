@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/hackpark/02 - foothold.md",
+            "file": "Basics/searchsploit.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "searchsploit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/hackpark/02 - foothold.md",
+                "file": "Basics/searchsploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Basics/searchsploit.md",
+    "Boxes/TryHackMe/Wreath/04 - Pivoting 01.md",
+    "Basics/Untitled.md",
+    "Boxes/TryHackMe/Wreath/13 - Exfiltration.md",
     "Boxes/TryHackMe/hackpark/Untitled.md",
     "Boxes/TryHackMe/hackpark/01 - enumeration.md",
     "Boxes/TryHackMe/Overpass 2/Attacker Bash History.md",
     "Recon/recon-ng.md",
     "Recon/Untitled.md",
-    "Basics/recon-ng/Untitled.md",
-    "Boxes/TryHackMe/Overpass 2/Foothold.md",
-    "Boxes/TryHackMe/Overpass 2/PCAP Analysis.md",
-    "Boxes/TryHackMe/Overpass 2/shadow file.md",
-    "Priv Esc/Enumeration.md"
+    "Basics/recon-ng/Untitled.md"
   ]
 }
