@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Recon/recon-ng.md",
+            "file": "Boxes/TryHackMe/hackpark/02 - foothold.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recon/recon-ng.md",
+                "file": "Boxes/TryHackMe/hackpark/02 - foothold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Boxes/TryHackMe/hackpark/Untitled.md",
+    "Boxes/TryHackMe/hackpark/01 - enumeration.md",
+    "Boxes/TryHackMe/Overpass 2/Attacker Bash History.md",
     "Recon/recon-ng.md",
     "Recon/Untitled.md",
     "Basics/recon-ng/Untitled.md",
     "Boxes/TryHackMe/Overpass 2/Foothold.md",
     "Boxes/TryHackMe/Overpass 2/PCAP Analysis.md",
     "Boxes/TryHackMe/Overpass 2/shadow file.md",
-    "Priv Esc/Enumeration.md",
-    "Boxes/TryHackMe/Overpass 2/Attacker Bash History.md",
-    "Boxes/TryHackMe/Overpass 2/Code analysis.md",
-    "Priv Esc/Shell Stabilization.md"
+    "Priv Esc/Enumeration.md"
   ]
 }
