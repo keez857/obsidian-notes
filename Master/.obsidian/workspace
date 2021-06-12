@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/msfvenom.md",
+            "file": "Boxes/TryHackMe/Game Zone/01 - Enumeration.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/msfvenom.md",
+                "file": "Boxes/TryHackMe/Game Zone/01 - Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Boxes/TryHackMe/Game Zone/Untitled.md",
+    "Basics/Windows Commands/Web Request.md",
+    "Basics/Windows Commands/User Creation.md",
+    "Basics/Windows Commands/Enumeration.md",
     "Basics/msfvenom.md",
     "Boxes/TryHackMe/hackpark/03 - priv esc.md",
-    "Basics/Windows Commands/Web Request.md",
-    "Basics/Windows Commands/Enumeration.md",
     "Basics/searchsploit.md",
     "Basics/xfreerdp.md",
     "Boxes/TryHackMe/hackpark/02 - foothold.md",
-    "Basics/Windows Commands/Untitled.md",
-    "Basics/Windows Commands/User Creation.md",
-    "Boxes/TryHackMe/Wreath/05 - Foothold 02.md"
+    "Basics/Windows Commands/Untitled.md"
   ]
 }
