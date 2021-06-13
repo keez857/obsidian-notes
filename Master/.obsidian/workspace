@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/Game Zone/01 - Enumeration.md",
+            "file": "Basics/xfreerdp.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/Game Zone/01 - Enumeration.md",
+                "file": "Basics/xfreerdp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Basics/xfreerdp.md",
+    "Basics/SQL Injection.md",
+    "Boxes/TryHackMe/Game Zone/01 - Enumeration.md",
+    "Basics/Untitled.md",
     "Boxes/TryHackMe/Game Zone/Untitled.md",
     "Basics/Windows Commands/Web Request.md",
     "Basics/Windows Commands/User Creation.md",
     "Basics/Windows Commands/Enumeration.md",
     "Basics/msfvenom.md",
-    "Boxes/TryHackMe/hackpark/03 - priv esc.md",
-    "Basics/searchsploit.md",
-    "Basics/xfreerdp.md",
-    "Boxes/TryHackMe/hackpark/02 - foothold.md",
-    "Basics/Windows Commands/Untitled.md"
+    "Boxes/TryHackMe/hackpark/03 - priv esc.md"
   ]
 }
