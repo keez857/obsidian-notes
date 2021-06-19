@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/Daily bugle/01 - enumeration.md",
-            "mode": "preview"
+            "file": "Boxes/TryHackMe/Daily bugle/04 - foothold.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/Daily bugle/01 - enumeration.md",
+                "file": "Boxes/TryHackMe/Daily bugle/04 - foothold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Boxes/TryHackMe/Daily bugle/04 - foothold.md",
+    "Boxes/TryHackMe/Daily bugle/03 - web app.md",
+    "Boxes/TryHackMe/Daily bugle/02 - joomscan.md",
     "Boxes/TryHackMe/Daily bugle/Untitled.md",
-    "Basics/msfvenom.md",
-    "Boxes/TryHackMe/Game Zone/02 - credentials.md",
-    "Boxes/TryHackMe/Game Zone/Untitled.md",
-    "Boxes/TryHackMe/Game Zone/01 - Enumeration.md",
-    "Basics/Untitled.md",
-    "Basics/SQL Injection.md",
-    "Basics/xfreerdp.md",
-    "Basics/Windows Commands/Web Request.md",
-    "Basics/Windows Commands/User Creation.md"
+    "Basics/searchsploit.md",
+    "Boxes/TryHackMe/Daily bugle/01 - enumeration.md",
+    "Basics/Linux Commands/find.md",
+    "Priv Esc/Enumeration.md",
+    "Basics/Linux Commands/grep.md",
+    "Basics/Untitled.md"
   ]
 }
