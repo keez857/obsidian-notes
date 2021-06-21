@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/Daily bugle/05 - foothold 2.md",
+            "file": "Boxes/TryHackMe/relevant/02 - foothold.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/Daily bugle/05 - foothold 2.md",
+                "file": "Boxes/TryHackMe/relevant/02 - foothold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Boxes/TryHackMe/relevant/02 - foothold.md",
+    "Boxes/TryHackMe/relevant/01 - enumeration.md",
+    "Basics/xfreerdp.md",
+    "Boxes/TryHackMe/relevant/Untitled.md",
     "Boxes/TryHackMe/Daily bugle/05 - foothold 2.md",
     "Basics/Linux Commands/find.md",
     "Basics/Linux Commands/grep.md",
     "Priv Esc/Enumeration.md",
     "Boxes/TryHackMe/Daily bugle/Untitled.md",
-    "Boxes/TryHackMe/Daily bugle/04 - foothold.md",
-    "Priv Esc/Shell Stabilization.md",
-    "Boxes/TryHackMe/Daily bugle/03 - web app.md",
-    "Boxes/TryHackMe/Daily bugle/02 - joomscan.md",
-    "Basics/searchsploit.md"
+    "Boxes/TryHackMe/Daily bugle/04 - foothold.md"
   ]
 }
