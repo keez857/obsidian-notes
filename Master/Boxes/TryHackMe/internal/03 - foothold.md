@@ -10,3 +10,14 @@ define( 'DB_USER', 'wordpress' );
 /** MySQL database password */
 define( 'DB_PASSWORD', 'wordpress123' );
 ```
+
+after snooping around we find /opt/wp-save.txt which contains creds:
+
+```bash
+Bill,
+
+Aubreanna needed these credentials for something later.  Let her know you have them and where they are.
+
+aubreanna:bubb13guM!@#123
+```
+

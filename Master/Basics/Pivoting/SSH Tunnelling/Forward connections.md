@@ -25,3 +25,5 @@ This will open up port 1337 on your attacking box as a proxy to send data throug
 
 `ssh -D 1337 user@172.16.0.5 -fN`
 
+
+`ssh -L 8000:10.10.179.97:8080 aubreanna@10.10.179.97`

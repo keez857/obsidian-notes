@@ -21,4 +21,11 @@ cat /etc/crontab
   
 **Check netstat -plant or -l** 
   
-Look for SSH keys /home/<user>/.ssh
+`Look for SSH keys /home/<user>/.ssh`
+	
+
+check /opt
+	
+	
+check for txt files
+`find / -iname "*.txt"`
