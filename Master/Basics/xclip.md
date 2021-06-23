@@ -1,0 +1,1 @@
+cat whatever | xclip -se clipboard
