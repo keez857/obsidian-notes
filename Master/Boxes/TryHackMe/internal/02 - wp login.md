@@ -8,3 +8,11 @@ we get the creds:
 [!] Valid Combinations Found:
  | Username: admin, Password: my2boys
 ```
+
+
+I decide to upload a php reverse shell.
+This can be done by going to `Appearance > Theme Editor > 404 template`
+
+We can activate the reverse shell by going to this address:
+
+http://internal.thm/blog/wp-content/themes/twentyseventeen/404.php
