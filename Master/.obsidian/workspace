@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Boxes/TryHackMe/internal/05 - priv esc.md",
+    "Boxes/TryHackMe/internal/04 - foothold 2.md",
+    "Boxes/TryHackMe/internal/03 - foothold.md",
+    "Boxes/TryHackMe/internal/02 - wp login.md",
+    "Boxes/TryHackMe/internal/01 - enumeration.md",
     "Boxes/TryHackMe/internal/Untitled.md",
     "Boxes/TryHackMe/internal/04 - priv esc.md",
     "Basics/Shell Stabilization.md",
-    "Boxes/TryHackMe/internal/03 - foothold.md",
     "Basics/Pivoting/SSH Tunnelling/Forward connections.md",
-    "Priv Esc/Enumeration.md",
-    "Basics/Pivoting/Chisel/General.md",
-    "Basics/MySQL.md",
-    "Basics/Untitled.md",
-    "Boxes/TryHackMe/internal/02 - wp login.md"
+    "Priv Esc/Enumeration.md"
   ]
 }
