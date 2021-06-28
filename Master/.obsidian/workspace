@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/internal/05 - priv esc.md",
+            "file": "Boxes/HackTheBox/Vaccine/01 - enumeration.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/internal/05 - priv esc.md",
+                "file": "Boxes/HackTheBox/Vaccine/01 - enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Boxes/HackTheBox/Vaccine/01 - enumeration.md",
+    "Boxes/HackTheBox/Vaccine/02 - absolute bullshit section.md",
     "Boxes/TryHackMe/internal/05 - priv esc.md",
     "Boxes/TryHackMe/internal/04 - foothold 2.md",
     "Boxes/TryHackMe/internal/03 - foothold.md",
     "Boxes/TryHackMe/internal/02 - wp login.md",
     "Boxes/TryHackMe/internal/01 - enumeration.md",
-    "Boxes/TryHackMe/internal/Untitled.md",
-    "Boxes/TryHackMe/internal/04 - priv esc.md",
+    "Boxes/HackTheBox/Vaccine/03 - sqlmap >> shell.md",
     "Basics/Shell Stabilization.md",
-    "Basics/Pivoting/SSH Tunnelling/Forward connections.md",
-    "Priv Esc/Enumeration.md"
+    "Boxes/HackTheBox/Vaccine/Untitled.md"
   ]
 }
