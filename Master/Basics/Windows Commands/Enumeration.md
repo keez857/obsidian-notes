@@ -22,3 +22,10 @@ We can also use `whoami /groups`
 looking for non-default services:  
 
 `wmic service get name,displayname,pathname,startmode | findstr /v /i "C:\Windows"`
+
+---
+
+Searching for files
+
+`where /r <location> <file>`
+ex: `where /r c:\ flag*`
