@@ -13,8 +13,7 @@ find / -type f -a \( -perm -u+s -o -perm -g+s \) -exec ls -l {} \; 2> /dev/null`
   
   
 **Check /etc/chron for cronjobs**  
-cat /etc/crontab  
-/etc/cron.d  
+`cat /etc/crontab`  or `/etc/cron.d`  or `crontab -l`
   
   
 **Check /var/www/**  

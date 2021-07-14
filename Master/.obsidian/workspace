@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/Windows Commands/Enumeration.md",
+            "file": "Priv Esc/Enumeration.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/Windows Commands/Enumeration.md",
+                "file": "Priv Esc/Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Priv Esc/Enumeration.md",
     "Basics/Windows Commands/Enumeration.md",
     "Boxes/TryHackMe/CTF Collection Vol 2/easteregg_04.md",
     "Boxes/TryHackMe/CTF Collection Vol 2/easteregg_05.md",
@@ -96,7 +97,6 @@
     "Boxes/TryHackMe/CTF Collection Vol 2/01 - enumeration.md",
     "Boxes/TryHackMe/CTF Collection Vol 2/02 - robots.txt.md",
     "Boxes/TryHackMe/CTF Collection Vol 2/easteregg_01.md",
-    "Basics/MySQL.md",
-    "Boxes/TryHackMe/internal/05 - priv esc.md"
+    "Basics/MySQL.md"
   ]
 }
