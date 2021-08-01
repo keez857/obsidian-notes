@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/SQLi.md",
+            "file": "Boxes/TryHackMe/anonymous/03 - priv esc.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/SQLi.md",
+                "file": "Boxes/TryHackMe/anonymous/03 - priv esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Boxes/TryHackMe/anonymous/03 - priv esc.md",
+    "Basics/Shell Stabilization.md",
+    "Boxes/TryHackMe/anonymous/03 - shell.md",
+    "Boxes/TryHackMe/anonymous/02 - ftp.md",
+    "Boxes/TryHackMe/anonymous/01 - enumeration.md",
+    "Priv Esc/Enumeration.md",
+    "Boxes/TryHackMe/anonymous/Untitled.md",
     "Basics/SQLi.md",
     "Boxes/TryHackMe/chillhack/Untitled.md",
-    "Priv Esc/Enumeration.md",
-    "Basics/Windows Commands/Enumeration.md",
-    "Boxes/TryHackMe/CTF Collection Vol 2/easteregg_04.md",
-    "Boxes/TryHackMe/CTF Collection Vol 2/easteregg_05.md",
-    "Boxes/TryHackMe/CTF Collection Vol 2/Untitled.md",
-    "Boxes/TryHackMe/CTF Collection Vol 2/01 - enumeration.md",
-    "Boxes/TryHackMe/CTF Collection Vol 2/02 - robots.txt.md",
-    "Boxes/TryHackMe/CTF Collection Vol 2/easteregg_01.md"
+    "Basics/Windows Commands/Enumeration.md"
   ]
 }

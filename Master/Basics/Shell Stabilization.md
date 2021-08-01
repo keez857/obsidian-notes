@@ -1,7 +1,7 @@
      
   
 **PYTHON METHOD**  
-1) python3 -c 'import pty; pty.spawn("/bin/bash")'  
+1) python -c 'import pty; pty.spawn("/bin/bash")'  
 2) export TERM=xterm  
 3) CTRL + Z to background the shell  
 4) stty raw -echo; fg  
