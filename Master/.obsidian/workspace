@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/chillhack/general.md",
+            "file": "Basics/SQLi.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/chillhack/general.md",
+                "file": "Basics/SQLi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Basics/SQLi.md",
     "Boxes/TryHackMe/chillhack/Untitled.md",
     "Priv Esc/Enumeration.md",
     "Basics/Windows Commands/Enumeration.md",
     "Boxes/TryHackMe/CTF Collection Vol 2/easteregg_04.md",
     "Boxes/TryHackMe/CTF Collection Vol 2/easteregg_05.md",
     "Boxes/TryHackMe/CTF Collection Vol 2/Untitled.md",
-    "Basics/SQLi.md",
     "Boxes/TryHackMe/CTF Collection Vol 2/01 - enumeration.md",
     "Boxes/TryHackMe/CTF Collection Vol 2/02 - robots.txt.md",
     "Boxes/TryHackMe/CTF Collection Vol 2/easteregg_01.md"
