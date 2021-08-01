@@ -17,5 +17,9 @@ things to note when following this method:
  	`lxc config device add privesc host-root disk source=/ path=/mnt/root recursive=true`
 	
 	
+Once you have root, don't forget you mounted the filesystem to `/mnt/root/`
+
+You can find the flag in `/mnt/root/`
+	
 	
 	
