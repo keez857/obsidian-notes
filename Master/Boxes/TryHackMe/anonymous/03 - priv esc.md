@@ -19,7 +19,7 @@ things to note when following this method:
 	
 Once you have root, don't forget you mounted the filesystem to `/mnt/root/`
 
-You can find the flag in `/mnt/root/`
+You can find the flag in `/mnt/root/root`
 	
 	
 	

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/anonymous/03 - priv esc.md",
+            "file": "Basics/Linux Commands/find.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/anonymous/03 - priv esc.md",
+                "file": "Basics/Linux Commands/find.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Basics/Linux Commands/find.md",
     "Boxes/TryHackMe/anonymous/03 - priv esc.md",
     "Basics/Shell Stabilization.md",
     "Boxes/TryHackMe/anonymous/03 - shell.md",
@@ -96,7 +97,6 @@
     "Priv Esc/Enumeration.md",
     "Boxes/TryHackMe/anonymous/Untitled.md",
     "Basics/SQLi.md",
-    "Boxes/TryHackMe/chillhack/Untitled.md",
-    "Basics/Windows Commands/Enumeration.md"
+    "Boxes/TryHackMe/chillhack/Untitled.md"
   ]
 }
