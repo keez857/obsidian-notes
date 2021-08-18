@@ -34,3 +34,32 @@ Nmap done: 1 IP address (1 host up) scanned in 58.54 seconds
 
 ```
 
+### wpscan
+
+```
+[i] User(s) Identified:
+
+[+] kwheel
+ | Found By: Author Posts - Author Pattern (Passive Detection)
+ | Confirmed By:
+ |  Wp Json Api (Aggressive Detection)
+ |   - http://blog.thm/wp-json/wp/v2/users/?per_page=100&page=1
+ |  Author Id Brute Forcing - Author Pattern (Aggressive Detection)
+ |  Login Error Messages (Aggressive Detection)
+
+[+] bjoel
+ | Found By: Author Posts - Author Pattern (Passive Detection)
+ | Confirmed By:
+ |  Wp Json Api (Aggressive Detection)
+ |   - http://blog.thm/wp-json/wp/v2/users/?per_page=100&page=1
+ |  Author Id Brute Forcing - Author Pattern (Aggressive Detection)
+ |  Login Error Messages (Aggressive Detection)
+
+[+] Karen Wheeler
+ | Found By: Rss Generator (Passive Detection)
+ | Confirmed By: Rss Generator (Aggressive Detection)
+
+[+] Billy Joel
+ | Found By: Rss Generator (Passive Detection)
+ | Confirmed By: Rss Generator (Aggressive Detection)
+ ```
