@@ -1,3 +1,7 @@
+`systeminfo` for general info
+
+---
+
 We can first use `whoami /priv` to check current user privs
 
 We can also use `whoami /groups`
