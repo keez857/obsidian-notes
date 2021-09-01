@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/HackTheBox/Starting Point/Shield/04 - juicy potato.md",
+            "file": "Boxes/HackTheBox/Starting Point/Pathfinder/01 - enumeration.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/HackTheBox/Starting Point/Shield/04 - juicy potato.md",
+                "file": "Boxes/HackTheBox/Starting Point/Pathfinder/01 - enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Boxes/HackTheBox/Starting Point/Pathfinder/01 - enumeration.md",
+    "Boxes/HackTheBox/Starting Point/Shield/05 - exfiltration.md",
+    "Boxes/HackTheBox/Starting Point/old passwords.md",
+    "Boxes/HackTheBox/Starting Point/Shield/Untitled.md",
     "Boxes/HackTheBox/Starting Point/Shield/04 - juicy potato.md",
-    "Boxes/HackTheBox/Starting Point/Shield/01 - Enumeration.md",
-    "Boxes/HackTheBox/Starting Point/Shield/02 - wordpress login.md",
     "Boxes/HackTheBox/Starting Point/Shield/03 - foothold.md",
-    "Boxes/TryHackMe/Wreath/10 - Foothold 03.md",
-    "Boxes/TryHackMe/Wreath/01 - enumeration 01.md",
-    "Boxes/TryHackMe/Wreath/02 - Foothold 01.md",
-    "Boxes/TryHackMe/Wreath/04 - Pivoting 01.md",
-    "Boxes/TryHackMe/Wreath/05 - Foothold 02.md",
-    "Boxes/TryHackMe/Wreath/06 - C&C with Empire.md"
+    "Boxes/HackTheBox/Starting Point/Shield/02 - wordpress login.md",
+    "Boxes/HackTheBox/Starting Point/Shield/01 - Enumeration.md",
+    "Boxes/HackTheBox/Starting Point/Pathfinder/Untitled.md",
+    "Boxes/TryHackMe/Wreath/10 - Foothold 03.md"
   ]
 }
