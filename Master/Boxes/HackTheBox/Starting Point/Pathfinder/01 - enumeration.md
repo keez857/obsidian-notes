@@ -32,4 +32,6 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 20.55 seconds
 ```
 
+Looks to be a Domain Controller because of port 88 (Kerberos) and port 389 (LDAP)
+
 ### test
