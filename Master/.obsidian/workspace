@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/HackTheBox/Starting Point/04 - Shield/05 - exfiltration.md",
+            "file": "Basics/nmap.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/HackTheBox/Starting Point/04 - Shield/05 - exfiltration.md",
+                "file": "Basics/nmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Basics/Untitled.md",
     "Boxes/HackTheBox/Starting Point/04 - Shield/05 - exfiltration.md",
     "Boxes/HackTheBox/Starting Point/04 - Shield/04 - juicy potato.md",
     "Boxes/HackTheBox/Starting Point/04 - Shield/03 - foothold.md",
@@ -96,7 +97,6 @@
     "Boxes/HackTheBox/Starting Point/04 - Shield/Untitled.md",
     "Boxes/HackTheBox/Starting Point/04 - Shield/Untitled 2.md",
     "Boxes/HackTheBox/Starting Point/04 - Shield/Untitled 1.md",
-    "Boxes/HackTheBox/Starting Point/old passwords.md",
-    "Boxes/HackTheBox/Starting Point/Pathfinder/04 - priv esc.md"
+    "Boxes/HackTheBox/Starting Point/old passwords.md"
   ]
 }
