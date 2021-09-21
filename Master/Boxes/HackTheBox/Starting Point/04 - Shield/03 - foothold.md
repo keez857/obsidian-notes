@@ -27,8 +27,3 @@ After googling we find this:
 `https://github.com/geeksniper/windows-privilege-escalation`
 
 We find an exploit we can use if `SeImpersonatePrivlege` is enabled.
-
-
-JUICY POTATO
----
-

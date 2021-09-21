@@ -35,5 +35,7 @@ Here we look at Find Principals with DCSync Rights
 
 There is a special relation with 
 
+We can see that the `svc_bes` has `GetChangesAll` privileges to the domain. This means that the account has the ability to request replication data from the domain controller, and gain sensitive information such as user hashes. 
+
 With both GetChanges and GetChangesAll privileges in BloodHound, you may perform a dcsync attack to get the password hash of an arbitrary principal using mimikatz: `lsadump::dcsync /domain:testlab.local /user:Administrator`
 

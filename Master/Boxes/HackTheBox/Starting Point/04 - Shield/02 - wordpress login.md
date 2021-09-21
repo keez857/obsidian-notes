@@ -14,7 +14,3 @@ we edit with the reverse php script here:
 
 we gain a shell by going to this link:
 `http://10.10.10.29/wordpress/wp-content/themes/twentynineteen/404.php`
-
-
-
-

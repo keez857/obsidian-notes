@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/HackTheBox/Starting Point/Pathfinder/02 - bloodhound.md",
+            "file": "Boxes/HackTheBox/Starting Point/04 - Shield/05 - exfiltration.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nc.exe",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/HackTheBox/Starting Point/Pathfinder/02 - bloodhound.md",
+                "file": "Boxes/HackTheBox/Starting Point/04 - Shield/05 - exfiltration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Boxes/HackTheBox/Starting Point/Pathfinder/02 - bloodhound.md",
-    "Boxes/HackTheBox/Starting Point/Pathfinder/01 - enumeration.md",
-    "Boxes/HackTheBox/Starting Point/Pathfinder/Untitled.md",
+    "Boxes/HackTheBox/Starting Point/04 - Shield/05 - exfiltration.md",
+    "Boxes/HackTheBox/Starting Point/04 - Shield/04 - juicy potato.md",
+    "Boxes/HackTheBox/Starting Point/04 - Shield/03 - foothold.md",
+    "Boxes/HackTheBox/Starting Point/04 - Shield/02 - wordpress login.md",
+    "Boxes/HackTheBox/Starting Point/04 - Shield/Untitled 3.md",
+    "Boxes/HackTheBox/Starting Point/04 - Shield/Untitled.md",
+    "Boxes/HackTheBox/Starting Point/04 - Shield/Untitled 2.md",
+    "Boxes/HackTheBox/Starting Point/04 - Shield/Untitled 1.md",
     "Boxes/HackTheBox/Starting Point/old passwords.md",
-    "CTF/CSAW 2021/Untitled.md",
-    "Boxes/HackTheBox/Starting Point/Shield/01 - Enumeration.md",
-    "Boxes/HackTheBox/Starting Point/Shield/05 - exfiltration.md",
-    "Boxes/HackTheBox/Starting Point/Shield/Untitled.md",
-    "Boxes/HackTheBox/Starting Point/Shield/04 - juicy potato.md",
-    "Boxes/HackTheBox/Starting Point/Shield/03 - foothold.md"
+    "Boxes/HackTheBox/Starting Point/Pathfinder/04 - priv esc.md"
   ]
 }
