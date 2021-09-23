@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/nmap.md",
+            "file": "Boxes/HackTheBox/Starting Point/05 - Pathfinder/02 - bloodhound.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lxd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/nmap.md",
+                "file": "Boxes/HackTheBox/Starting Point/05 - Pathfinder/02 - bloodhound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Basics/Untitled.md",
-    "Boxes/HackTheBox/Starting Point/04 - Shield/05 - exfiltration.md",
-    "Boxes/HackTheBox/Starting Point/04 - Shield/04 - juicy potato.md",
-    "Boxes/HackTheBox/Starting Point/04 - Shield/03 - foothold.md",
-    "Boxes/HackTheBox/Starting Point/04 - Shield/02 - wordpress login.md",
-    "Boxes/HackTheBox/Starting Point/04 - Shield/Untitled 3.md",
-    "Boxes/HackTheBox/Starting Point/04 - Shield/Untitled.md",
-    "Boxes/HackTheBox/Starting Point/04 - Shield/Untitled 2.md",
-    "Boxes/HackTheBox/Starting Point/04 - Shield/Untitled 1.md",
-    "Boxes/HackTheBox/Starting Point/old passwords.md"
+    "Boxes/HackTheBox/Starting Point/05 - Pathfinder/02 - bloodhound.md",
+    "Basics/feroxbuster.md",
+    "Basics/msfvenom.md",
+    "Basics/MySQL.md",
+    "Basics/nmap.md",
+    "Basics/searchsploit.md",
+    "Basics/Shell Stabilization.md",
+    "Basics/SQLi.md",
+    "Basics/SQLmap.md",
+    "Basics/wordpress.md"
   ]
 }

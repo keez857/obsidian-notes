@@ -1,7 +1,8 @@
 because we already have creds from the last box
 `sandra:Password1234!`
 
-we use bloodhound.py found here:
+
+we use bloodhound.py to gather our data to then import into bloodhound:
 https://github.com/fox-it/BloodHound.py
 
 must run
