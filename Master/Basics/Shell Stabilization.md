@@ -8,7 +8,7 @@
   
 Type ‘reset’ when finished or if shell dies  
   
-  
+  ---
   
   
 **If there are wrapping rows/colums issue**  

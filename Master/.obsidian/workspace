@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/HackTheBox/Starting Point/05 - Pathfinder/02 - bloodhound.md",
+            "file": "Basics/ftp and smb tricks.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lxd",
+                "query": "hydra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/HackTheBox/Starting Point/05 - Pathfinder/02 - bloodhound.md",
+                "file": "Basics/ftp and smb tricks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Boxes/HackTheBox/Starting Point/05 - Pathfinder/02 - bloodhound.md",
-    "Basics/feroxbuster.md",
-    "Basics/msfvenom.md",
-    "Basics/MySQL.md",
-    "Basics/nmap.md",
-    "Basics/searchsploit.md",
+    "Basics/Untitled.md",
     "Basics/Shell Stabilization.md",
+    "Boxes/TryHackMe/hogwarts/01 - enum.md",
+    "Priv Esc/Enumeration.md",
     "Basics/SQLi.md",
-    "Basics/SQLmap.md",
-    "Basics/wordpress.md"
+    "Basics/MySQL.md",
+    "Boxes/TryHackMe/hogwarts/Untitled.md",
+    "Boxes/HackTheBox/Starting Point/old passwords.md",
+    "Boxes/HackTheBox/Starting Point/06 - Included/06 - exfiltration.md",
+    "Boxes/HackTheBox/Starting Point/06 - Included/05 - priv esc.md"
   ]
 }

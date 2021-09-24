@@ -5,6 +5,8 @@ we see that there is an `lxd` group which means we can use the exploit found her
 
 I use method 2
 
+once you get a tar.gz file you need to get this file onto the victim machine
+
 ---
 
 lxd init portion:
@@ -22,4 +24,4 @@ Would you like a YAML "lxd init" preseed to be printed? (yes/no) [default=no]: n
 
 ---
 
-Once you have the root shell, remember you are in 
+Once you have the root shell, remember you mounted a file share into `/mnt/`
