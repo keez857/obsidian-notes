@@ -19,6 +19,8 @@ We can also use `whoami /groups`
 
 `icacls file` will check permissions of a file
 
+`schtasks` will check for scheduled tasks
+`schtasks /query /v /fo LIST` more detail
 
 
 

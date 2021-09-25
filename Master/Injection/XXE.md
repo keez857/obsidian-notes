@@ -1,0 +1,10 @@
+### internal entity
+
+```
+<!--?xml version="1.0" ?-->
+**<!DOCTYPE replace [<!ENTITY example "Doe"> ]>
+** <userInfo>
+  <firstName>John</firstName>
+  <lastName>**&example;**</lastName>
+</userInfo>
+```
