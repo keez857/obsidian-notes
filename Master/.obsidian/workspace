@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/HackTheBox/Starting Point/04 - Shield/05 - exfiltration.md",
+            "file": "Boxes/HackTheBox/Starting Point/09 - Base/02 - abuse strcmp.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/HackTheBox/Starting Point/04 - Shield/05 - exfiltration.md",
+                "file": "Boxes/HackTheBox/Starting Point/09 - Base/02 - abuse strcmp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Boxes/HackTheBox/Starting Point/04 - Shield/05 - exfiltration.md",
-    "Boxes/HackTheBox/Starting Point/07 - Markup/04 - exfil.md",
-    "Boxes/HackTheBox/Starting Point/07 - Markup/03 - priv esc.md",
-    "Boxes/HackTheBox/Starting Point/07 - Markup/Untitled.md",
-    "Basics/Windows Commands/Enumeration.md",
-    "Boxes/HackTheBox/Starting Point/07 - Markup/02 - web app and XXE.md",
-    "Basics/Windows Commands/Web Request.md",
-    "Boxes/HackTheBox/Starting Point/07 - Markup/02 - web app.md",
-    "Injection/Untitled.md",
-    "Boxes/HackTheBox/Starting Point/07 - Markup/01 - enum.md"
+    "Boxes/HackTheBox/Starting Point/09 - Base/Untitled.md",
+    "Boxes/HackTheBox/Starting Point/09 - Base/01 - enum.md",
+    "Basics/SQLi.md",
+    "Boxes/HackTheBox/Starting Point/08 - Guard/03 - priv esc.md",
+    "Priv Esc/Enumeration.md",
+    "Boxes/HackTheBox/Starting Point/08 - Guard/Untitled.md",
+    "Boxes/HackTheBox/Starting Point/08 - Guard/01 - enum.md",
+    "Basics/nmap.md",
+    "Boxes/HackTheBox/Starting Point/Untitled.md",
+    "Boxes/HackTheBox/Starting Point/04 - Shield/05 - exfiltration.md"
   ]
 }
