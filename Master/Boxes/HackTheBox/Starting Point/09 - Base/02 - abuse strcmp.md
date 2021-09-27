@@ -32,6 +32,8 @@ to this
 username[]=asdf&password[]=asdf2
 ```
 
-This converts the variables to arrays and returns NULL value
+This converts the variables to arrays and returns NULL value, bringing us to an upload page.
 
+we can upload a php reverse shell. and access it in `/_uploaded`
 
+This gives us our first shell
