@@ -10,6 +10,7 @@ Jack Goldenhand
 Alexa Whitehat
 ```
 
+---
 
 we can use impacket's `lookupsid.py` to enumerate users
 `python3 lookupsid.py guest@10.10.127.164`

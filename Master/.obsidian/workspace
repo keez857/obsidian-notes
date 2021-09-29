@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/HackTheBox/Starting Point/04 - Shield/04 - juicy potato.md",
+            "file": "Boxes/TryHackMe/VulnNet/Roasted/02 - smb.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/HackTheBox/Starting Point/04 - Shield/04 - juicy potato.md",
+                "file": "Boxes/TryHackMe/VulnNet/Roasted/02 - smb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Boxes/TryHackMe/VulnNet/Roasted/02 - smb.md",
     "Boxes/HackTheBox/Starting Point/04 - Shield/04 - juicy potato.md",
     "Boxes/HackTheBox/Starting Point/04 - Shield/03 - foothold.md",
     "Basics/Windows Commands/Enumeration.md",
-    "Boxes/TryHackMe/VulnNet/Roasted/02 - smb.md",
     "Boxes/TryHackMe/VulnNet/Roasted/01 - enum.md",
     "Basics/ftp and smb tricks.md",
     "Boxes/HackTheBox/Starting Point/05 - Pathfinder/03 - ASREP Roasting.md",
