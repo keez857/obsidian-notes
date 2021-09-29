@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hydra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

