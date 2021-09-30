@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/VulnNet/Roasted/02 - smb.md",
+            "file": "Boxes/TryHackMe/VulnNet/Roasted/03 - priv esc.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/VulnNet/Roasted/02 - smb.md",
+                "file": "Boxes/TryHackMe/VulnNet/Roasted/03 - priv esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Boxes/TryHackMe/VulnNet/Roasted/02 - smb.md",
     "Boxes/TryHackMe/VulnNet/Roasted/03 - priv esc.md",
+    "Boxes/TryHackMe/VulnNet/Roasted/02 - smb.md",
     "Basics/Windows Commands/Enumeration.md",
     "Boxes/TryHackMe/VulnNet/Roasted/Untitled.md",
     "Boxes/HackTheBox/Starting Point/04 - Shield/04 - juicy potato.md",
