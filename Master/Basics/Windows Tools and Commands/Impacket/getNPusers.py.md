@@ -12,3 +12,9 @@ You will need to provide a username.
 
 If you want to provide a list of names 
 `python3 GetNPUsers.py -dc-ip 192.168.1.105 DOMAIN.local/  -usersfile users.txt`
+
+---
+
+It will spit out TGT (ticket granting ticket) for that user if vulnerable. 
+
+The TGT can actually be cracked for a password using john
