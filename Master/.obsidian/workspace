@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/HackTheBox/Return/00 - enum.md",
+            "file": "Basics/feroxbuster.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/HackTheBox/Return/00 - enum.md",
+                "file": "Basics/feroxbuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Basics/feroxbuster.md",
     "Boxes/HackTheBox/Return/Untitled.md",
     "Basics/searchsploit.md",
     "Basics/Windows Tools and Commands/Attack on AD/kerbrute.md",
@@ -96,7 +97,6 @@
     "Basics/Windows Tools and Commands/Impacket/Untitled.md",
     "Basics/SMB enum.md",
     "Basics/Windows Tools and Commands/Impacket/getNPusers.py.md",
-    "Basics/Windows Tools and Commands/Attack on AD/Untitled.md",
-    "Basics/Windows Tools and Commands/Enumeration.md"
+    "Basics/Windows Tools and Commands/Attack on AD/Untitled.md"
   ]
 }
