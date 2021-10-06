@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/Windows Tools and Commands/Attack on AD/kerbrute.md",
+            "file": "Boxes/HackTheBox/Return/00 - enum.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.01218795776367
+    "width": 232.01218795776367
   },
   "right": {
     "id": "4851d56fedb733fb",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/Windows Tools and Commands/Attack on AD/kerbrute.md",
+                "file": "Boxes/HackTheBox/Return/00 - enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Boxes/HackTheBox/Return/Untitled.md",
+    "Basics/searchsploit.md",
     "Basics/Windows Tools and Commands/Attack on AD/kerbrute.md",
+    "Basics/Windows Tools and Commands/Untitled.md",
+    "Basics/Windows Tools and Commands/Impacket/secretsdump.py.md",
+    "Basics/Windows Tools and Commands/Impacket/Untitled.md",
+    "Basics/SMB enum.md",
     "Basics/Windows Tools and Commands/Impacket/getNPusers.py.md",
     "Basics/Windows Tools and Commands/Attack on AD/Untitled.md",
-    "Basics/Windows Tools and Commands/Enumeration.md",
-    "Basics/Windows Tools and Commands/Web Request.md",
-    "Basics/Windows Tools and Commands/Impacket/lookupsid.py.md",
-    "Boxes/HackTheBox/Starting Point/04 - Shield/05 - exfiltration.md",
-    "Boxes/HackTheBox/Starting Point/07 - Markup/04 - exfil.md",
-    "Basics/Shell Stabilization.md",
-    "Boxes/TryHackMe/Blueprint/00 - enumeration.md"
+    "Basics/Windows Tools and Commands/Enumeration.md"
   ]
 }

