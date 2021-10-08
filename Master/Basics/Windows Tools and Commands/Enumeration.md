@@ -27,7 +27,9 @@ We can also use `whoami /groups`
 
 looking for non-default services:  
 
-`wmic service get name,displayname,pathname,startmode | findstr /v /i "C:\Windows"`
+`
+wmic service get name,displayname,pathname,startmode | findstr /v /i "C:\Windows"
+`
 
 ---
 

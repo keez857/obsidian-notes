@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/feroxbuster.md",
+            "file": "Boxes/TryHackMe/VulnNet/Internal/03 - redis.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enum4linux",
+                "query": "\"pass the hash\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/feroxbuster.md",
+                "file": "Boxes/TryHackMe/VulnNet/Internal/03 - redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Basics/feroxbuster.md",
-    "Boxes/HackTheBox/Return/Untitled.md",
-    "Basics/searchsploit.md",
-    "Basics/Windows Tools and Commands/Attack on AD/kerbrute.md",
-    "Basics/Windows Tools and Commands/Untitled.md",
-    "Basics/Windows Tools and Commands/Impacket/secretsdump.py.md",
-    "Basics/Windows Tools and Commands/Impacket/Untitled.md",
+    "Boxes/TryHackMe/VulnNet/Internal/03 - redis.md",
+    "Boxes/TryHackMe/VulnNet/Internal/Untitled.md",
+    "Basics/Untitled.md",
+    "Boxes/TryHackMe/VulnNet/Internal/02 - nfs and mountd.md",
+    "Boxes/TryHackMe/VulnNet/Internal/01 - nfs and mountd.md",
+    "Boxes/TryHackMe/VulnNet/Internal/00 - enum.md",
+    "Basics/Linux Commands/grep.md",
+    "Basics/Linux Commands/find.md",
     "Basics/SMB enum.md",
-    "Basics/Windows Tools and Commands/Impacket/getNPusers.py.md",
-    "Basics/Windows Tools and Commands/Attack on AD/Untitled.md"
+    "Basics/Windows Tools and Commands/Enumeration.md"
   ]
 }
