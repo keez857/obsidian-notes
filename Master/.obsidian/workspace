@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/VulnNet/Internal/05 - priv esc.md",
+            "file": "Basics/vim.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/VulnNet/Internal/05 - priv esc.md",
+                "file": "Basics/vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,13 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Basics/Untitled.md",
     "Boxes/TryHackMe/VulnNet/Internal/05 - priv esc.md",
     "Boxes/TryHackMe/VulnNet/Internal/04 - rsync.md",
     "Basics/Pivoting/SSH Tunnelling/Forward connections.md",
     "Boxes/TryHackMe/VulnNet/Internal/00 - enum.md",
     "Boxes/TryHackMe/VulnNet/Internal/Untitled.md",
     "Boxes/TryHackMe/VulnNet/Internal/03 - redis.md",
-    "Basics/Untitled.md",
     "Boxes/TryHackMe/VulnNet/Internal/02 - nfs and mountd.md",
     "Boxes/TryHackMe/VulnNet/Internal/01 - nfs and mountd.md",
     "Basics/Linux Commands/grep.md"
