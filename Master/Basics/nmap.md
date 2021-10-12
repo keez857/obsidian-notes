@@ -5,3 +5,11 @@
 ### udp scan
 `nmap -sU 10.10.10.55 --top-ports 100`
 
+
+---
+
+### flags
+
+`-T0` slow nmap scan to be less detectable
+`-T5` fastest setting when you don't give a fuck
+
