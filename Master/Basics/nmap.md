@@ -12,4 +12,6 @@
 
 `-T0` slow nmap scan to be less detectable
 `-T5` fastest setting when you don't give a fuck
-
+`-sV` version scan
+`-sC` safe scripts
+`-O` OS detection
