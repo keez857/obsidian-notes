@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/Windows Tools and Commands/Kerberos/01 - Auth Process.md",
+            "file": "Basics/Windows Tools and Commands/Kerberos/01 - Auth Overview.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/Windows Tools and Commands/Kerberos/01 - Auth Process.md",
+                "file": "Basics/Windows Tools and Commands/Kerberos/01 - Auth Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Basics/Windows Tools and Commands/Kerberos/01 - Auth Process.md",
+    "Basics/Windows Tools and Commands/Kerberos/00 - General Terms.md",
+    "Basics/Windows Tools and Commands/Enumeration.md",
     "Basics/Windows Tools and Commands/Kerberos/Untitled.md",
     "Basics/searchsploit.md",
     "Basics/nmap.md",
     "Boxes/TryHackMe/VulnNet/Node/Untitled.md",
     "Basics/xfreerdp.md",
     "Boxes/HackTheBox/Starting Point/Tier 0/Notes.md",
-    "Boxes/HackTheBox/Starting Point/Tier 0/Untitled.md",
-    "Basics/Untitled.md",
-    "Boxes/TryHackMe/VulnNet/Internal/05 - priv esc.md",
-    "Boxes/TryHackMe/VulnNet/Internal/04 - rsync.md"
+    "Boxes/HackTheBox/Starting Point/Tier 0/Untitled.md"
   ]
 }
