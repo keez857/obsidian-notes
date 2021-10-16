@@ -1,3 +1,8 @@
+### Kerberos
+Replaced NTLM, considered more secure
+
+---
+
 `TGT - Ticket Granting Ticket`
 A ticket-granting ticket is an authentication ticket used to request service tickets from the TGS for specific resources from the domain.
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/Windows Tools and Commands/Kerberos/Terms.md",
+            "file": "Basics/Windows Tools and Commands/Kerberos/01 - Auth Process.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/Windows Tools and Commands/Kerberos/Terms.md",
+                "file": "Basics/Windows Tools and Commands/Kerberos/01 - Auth Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
