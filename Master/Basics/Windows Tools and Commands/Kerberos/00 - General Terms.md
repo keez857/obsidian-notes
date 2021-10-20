@@ -7,10 +7,18 @@ Replaced NTLM, considered more secure
 `TGT - Ticket Granting Ticket`
 A ticket-granting ticket is an authentication ticket used to request service tickets from the TGS for specific resources from the domain.
 
+The ticket-granting ticket is only used with the KDC in order to get service tickets. Once you give the TGT the server then gets the User details, session key, and then encrypts the ticket with the service account NTLM hash
+	
+	.kirbi - Rubeus
+	.ccache - impacket
+
+`KRBTGT`
+Allows you to get any service ticket you want
+
 `ST - Service Ticket`
 Provide access to app services like HTTP or SSH. You must possess a TGT to receive STs
 
-`KDC - Key Distribution Center`
+`KDC - Key Distribution Center` (lives on DC) (AS+TGS)
  The Key Distribution Center is a service for issuing TGTs and service tickets that consist of the Authentication Service and the Ticket Granting Service.
  KDC validates TGT and returns STs
 
