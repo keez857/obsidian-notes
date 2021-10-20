@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/Windows Tools and Commands/Kerberos/06 - golden and silver ticket mimikatz.md",
+            "file": "Basics/Windows Tools and Commands/mimikatz.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/Windows Tools and Commands/Kerberos/06 - golden and silver ticket mimikatz.md",
+                "file": "Basics/Windows Tools and Commands/mimikatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Basics/Windows Tools and Commands/Kerberos/Untitled.md",
     "Basics/Windows Tools and Commands/mimikatz.md",
+    "Basics/Windows Tools and Commands/Kerberos/Untitled.md",
     "Basics/Windows Tools and Commands/Kerberos/05 - pass the ticket mimikatz.md",
     "Basics/Windows Tools and Commands/Kerberos/00 - General Terms.md",
     "Basics/Windows Tools and Commands/Kerberos/01 - Auth Overview.md",
