@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/Windows Tools and Commands/Kerberos/04 - AS-REP Roasting.md",
+            "file": "Basics/Windows Tools and Commands/mimikatz.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "as-rep",
+                "query": "asrep",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/Windows Tools and Commands/Kerberos/04 - AS-REP Roasting.md",
+                "file": "Basics/Windows Tools and Commands/mimikatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,14 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Basics/Windows Tools and Commands/Kerberos/04 - AS-REP Roasting.md",
+    "Basics/Windows Tools and Commands/mimikatz.md",
+    "Basics/Windows Tools and Commands/Kerberos/05 - pass the ticket mimikatz.md",
+    "Basics/Windows Tools and Commands/Kerberos/00 - General Terms.md",
     "Basics/Windows Tools and Commands/Kerberos/01 - Auth Overview.md",
-    "Basics/Windows Tools and Commands/Kerberos/02 - Attack Types.md",
-    "Basics/Windows Tools and Commands/Attack on AD/General.md",
-    "Basics/Windows Tools and Commands/Impacket/lookupsid.py.md",
-    "Basics/Windows Tools and Commands/Impacket/secretsdump.py.md",
-    "Basics/Windows Tools and Commands/Impacket/getNPusers.py.md",
     "Basics/Windows Tools and Commands/Kerberos/Untitled.md",
+    "Basics/Windows Tools and Commands/Untitled.md",
+    "Basics/Windows Tools and Commands/Kerberos/04 - AS-REP Roasting.md",
+    "Boxes/TryHackMe/VulnNet/Roasted/02 - smb.md",
     "Basics/Windows Tools and Commands/Rubeus.md",
     "Basics/Windows Tools and Commands/Kerberos/03 - kerberoasting.md"
   ]

