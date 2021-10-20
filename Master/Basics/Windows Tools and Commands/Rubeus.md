@@ -32,4 +32,6 @@ Rubeus.exe kerberoast
 ```
 
 place hash in txt file on attack machine and crack with hashcat
-
+```
+hashcat -m 13100 -a 0 crackme.txt wordlist.txt 
+```
