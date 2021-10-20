@@ -28,3 +28,6 @@ With a valid SID and NTLM hash you can craft a golden ticket
 
 ---
 
+### use ticket
+
+`misc::cmd`

