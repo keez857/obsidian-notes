@@ -37,3 +37,8 @@ Searching for files
 
 `where /r <location> <file>`
 ex: `where /r c:\ flag*`
+
+---
+
+Start powershell (-ep will bypass exec policy allowing you to run scripts easily)
+`powershell -ep bypass`

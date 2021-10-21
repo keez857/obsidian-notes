@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/Windows Tools and Commands/Kerberos/07 - kerberos backdoor skeleton key.md",
+            "file": "Basics/Windows Tools and Commands/Enumeration/Bloodhound.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/Windows Tools and Commands/Kerberos/07 - kerberos backdoor skeleton key.md",
+                "file": "Basics/Windows Tools and Commands/Enumeration/Bloodhound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Basics/Windows Tools and Commands/Enumeration/Bloodhound.md",
+    "Basics/Windows Tools and Commands/Enumeration/Command Line.md",
+    "Basics/Windows Tools and Commands/Enumeration/PowerView.md",
+    "Basics/scp file transfer.md",
+    "Basics/Windows Tools and Commands/Enumeration/Untitled.md",
+    "Basics/Windows Tools and Commands/Command Line.md",
+    "Basics/Windows Tools and Commands/Evil-WinRM.md",
+    "Basics/Windows Tools and Commands/Enumeration.md",
     "Basics/Windows Tools and Commands/Kerberos/07 - kerberos backdoor skeleton key.md",
-    "Basics/Windows Tools and Commands/mimikatz.md",
-    "Basics/Windows Tools and Commands/Kerberos/Untitled.md",
-    "Basics/Windows Tools and Commands/Kerberos/06 - golden and silver ticket mimikatz.md",
-    "Basics/Windows Tools and Commands/Kerberos/05 - pass the ticket mimikatz.md",
-    "Basics/Windows Tools and Commands/Kerberos/00 - General Terms.md",
-    "Basics/Windows Tools and Commands/Kerberos/01 - Auth Overview.md",
-    "Basics/Windows Tools and Commands/Untitled.md",
-    "Basics/Windows Tools and Commands/Kerberos/04 - AS-REP Roasting.md",
-    "Boxes/TryHackMe/VulnNet/Roasted/02 - smb.md"
+    "Basics/Windows Tools and Commands/mimikatz.md"
   ]
 }
