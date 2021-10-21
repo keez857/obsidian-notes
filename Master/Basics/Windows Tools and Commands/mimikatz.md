@@ -4,6 +4,12 @@ Output '20' means you have admin privs
 
 ---
 
+### basic hash dump
+
+`lsadump::lsa /patch`
+
+---
+
 ### export .kirbi tickets into current dir
 `sekurlsa::tickets /export`
 

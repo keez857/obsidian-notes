@@ -1,4 +1,5 @@
-`xfreerdp /v:IP /u:USERNAME /p:PASSWORD`
+`xfreerdp /v:IP /u:USERNAME /p:'PASSWORD'`
+use single quotes for password
 
 Userful xfreerdp flags:
 
