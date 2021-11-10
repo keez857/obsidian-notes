@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/xfreerdp.md",
+            "file": "Basics/Windows Tools and Commands/Enumeration/Maintain Access.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/xfreerdp.md",
+                "file": "Basics/Windows Tools and Commands/Enumeration/Maintain Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Basics/xfreerdp.md",
+    "Basics/Windows Tools and Commands/Enumeration/Maintain Access.md",
     "Basics/Windows Tools and Commands/Enumeration/Server Manager.md",
+    "Basics/xfreerdp.md",
     "Basics/Windows Tools and Commands/mimikatz.md",
     "Basics/Windows Tools and Commands/Enumeration/Bloodhound.md",
     "Basics/Windows Tools and Commands/Enumeration/Command Line.md",
     "Basics/Windows Tools and Commands/Enumeration/PowerView.md",
     "Basics/scp file transfer.md",
     "Basics/Windows Tools and Commands/Command Line.md",
-    "Basics/Windows Tools and Commands/Evil-WinRM.md",
-    "Basics/Windows Tools and Commands/Enumeration.md"
+    "Basics/Windows Tools and Commands/Evil-WinRM.md"
   ]
 }

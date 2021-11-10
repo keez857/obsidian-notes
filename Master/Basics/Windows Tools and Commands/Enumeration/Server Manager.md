@@ -1,1 +1,0 @@
-You must RDP into the server first
