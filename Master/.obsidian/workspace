@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/HackTheBox/Starting Point/05 - Pathfinder/04 - priv esc.md",
+            "file": "Basics/AV Evasion/Fundamentals.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/HackTheBox/Starting Point/05 - Pathfinder/04 - priv esc.md",
+                "file": "Basics/AV Evasion/Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Basics/AV Evasion/Fundamentals.md",
     "Boxes/HackTheBox/Starting Point/05 - Pathfinder/04 - priv esc.md",
     "Boxes/HackTheBox/Starting Point/05 - Pathfinder/03 - ASREP Roasting.md",
     "Boxes/HackTheBox/Starting Point/05 - Pathfinder/02 - bloodhound.md",
@@ -96,7 +97,6 @@
     "Boxes/TryHackMe/coldbox (WPSCAN)/wpscan.md",
     "Boxes/TryHackMe/coldbox (WPSCAN)/nmap.md",
     "Boxes/TryHackMe/coldbox (WPSCAN)/enum.md",
-    "Boxes/TryHackMe/coldbox (WPSCAN)/gobuster.md",
-    "Boxes/TryHackMe/Boiler CTF/01 - enumeration.md"
+    "Boxes/TryHackMe/coldbox (WPSCAN)/gobuster.md"
   ]
 }
