@@ -36,6 +36,6 @@ Checks against _pre-defined rules_
 Ex: ways to bypass sandbox. Check for fan, gui, resolution, vm tools. Program should exit if it detects it's in a VM.
 
 
-![[random 1.png]]
+[[random 1.png]]
 
 
