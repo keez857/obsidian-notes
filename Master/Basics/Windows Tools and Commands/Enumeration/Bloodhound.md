@@ -1,5 +1,16 @@
-### collecting data
+### collecting data (ingesting)
 
+There are two different methods to ingest data for Bloodhound
+
+1) Sharphound
+2) Python script
+
+
+---
+
+### Sharphound
+
+You will need control on a domain machine.
 
 These commands will gather the .json files you need to run Bloodhound
 
