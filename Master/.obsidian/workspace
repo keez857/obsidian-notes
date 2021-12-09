@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/Windows Tools and Commands/Enumeration/Bloodhound.md",
+            "file": "Basics/xfreerdp.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/Windows Tools and Commands/Enumeration/Bloodhound.md",
+                "file": "Basics/xfreerdp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Basics/xfreerdp.md",
     "Basics/Windows Tools and Commands/Enumeration/Bloodhound.md",
     "Basics/Windows Tools and Commands/Enumeration/Command Line.md",
     "Basics/LFI - PHP.md",
@@ -96,7 +97,6 @@
     "Basics/AV Evasion/Fundamentals.md",
     "Boxes/HackTheBox/Starting Point/05 - Pathfinder/04 - priv esc.md",
     "Boxes/HackTheBox/Starting Point/05 - Pathfinder/03 - ASREP Roasting.md",
-    "Boxes/HackTheBox/Starting Point/05 - Pathfinder/02 - bloodhound.md",
-    "Boxes/HackTheBox/Starting Point/05 - Pathfinder/01 - enumeration.md"
+    "Boxes/HackTheBox/Starting Point/05 - Pathfinder/02 - bloodhound.md"
   ]
 }
