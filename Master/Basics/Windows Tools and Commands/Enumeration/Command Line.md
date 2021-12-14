@@ -23,7 +23,11 @@ We can also use `whoami /groups`
 `schtasks /query /v /fo LIST` more detail
 
 
+---
 
+### services
+
+`wmic service list`
 
 looking for non-default services:  
 
