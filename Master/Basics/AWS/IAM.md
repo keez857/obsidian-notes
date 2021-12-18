@@ -29,6 +29,10 @@ Once you have configured a new profile with the new access keys, you can execute
 
 ProTip: Never store a set of access keys in the [default] profile. Doing so forces you always to specify a profile and never accidentally run a command against an account you don't intend to. 
 
+---
+
+### Recon Techniques
+
 A few other common AWS reconnaissance techniques are:
 
    1) Finding the Account ID belonging to an access key:
