@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/AWS/IAM.md",
+            "file": "Basics/AWS/General.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/AWS/IAM.md",
+                "file": "Basics/AWS/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Basics/AWS/IAM.md",
+    "Basics/AWS/General.md",
+    "Basics/AWS/ARNs.md",
+    "Basics/AWS/IAMs.md",
     "Basics/Windows Tools and Commands/LEADUP.md",
     "Basics/xfreerdp.md",
     "Basics/Windows Tools and Commands/Enumeration/Command Line.md",
     "Boxes/TryHackMe/solar (log4j)/01 - recon.md",
     "Basics/Windows Tools and Commands/Enumeration/Bloodhound.md",
     "Basics/LFI - PHP.md",
-    "Basics/SQLi.md",
-    "CTF/k3rn3l/Vieta's Poly.md",
-    "Basics/AV Evasion/Fundamentals.md"
+    "Basics/SQLi.md"
   ]
 }
