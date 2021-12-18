@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/Windows Tools and Commands/LEADUP.md",
+            "file": "Basics/AWS/IAM.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/Windows Tools and Commands/LEADUP.md",
+                "file": "Basics/AWS/IAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Basics/AWS/IAM.md",
     "Basics/Windows Tools and Commands/LEADUP.md",
     "Basics/xfreerdp.md",
     "Basics/Windows Tools and Commands/Enumeration/Command Line.md",
@@ -96,7 +97,6 @@
     "Basics/LFI - PHP.md",
     "Basics/SQLi.md",
     "CTF/k3rn3l/Vieta's Poly.md",
-    "Basics/AV Evasion/Fundamentals.md",
-    "Boxes/HackTheBox/Starting Point/05 - Pathfinder/04 - priv esc.md"
+    "Basics/AV Evasion/Fundamentals.md"
   ]
 }
