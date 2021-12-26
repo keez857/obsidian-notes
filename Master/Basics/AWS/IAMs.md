@@ -36,7 +36,7 @@ ProTip: Never store a set of access keys in the [default] profile. Doing so forc
 A few other common AWS reconnaissance techniques are:
 
    1) Finding the Account ID belonging to an access key:
-	       `aws sts get-access-key-info --access-key-id AKIAEXAMPLE`
+	       `aws sts get-access-key-info --access-key-id AKIAEXAMPLE --profile PROFILENAME`
    2) Determining the Username the access key you're using belongs to
 	   `aws sts get-caller-identity --profile PROFILENAME`
    3) Listing all the EC2 instances running in an account
@@ -44,3 +44,11 @@ A few other common AWS reconnaissance techniques are:
    4) Listing all the EC2 instances running in an account in a different region
 	   `aws ec2 describe-instances --output text --region us-east-1 --profile PROFILENAME`
 
+---
+
+### Secrets manager
+
+`aws secretsmanager list-secrets --profile PROFILENAME`
+Secret ID will usually be the "Name" value
+
+`aws secretsmanager get-secret-value --secret-id SECRETID --profile PROFILENAME`
