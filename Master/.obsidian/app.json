@@ -1,4 +1,6 @@
 {
   "promptDelete": false,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "legacyEditor": false,
+  "livePreview": true
 }

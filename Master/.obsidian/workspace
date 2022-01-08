@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/TryHackMe/blog/01 - enumeration.md",
-            "mode": "source"
+            "file": "Shellcode/Basics.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/TryHackMe/blog/01 - enumeration.md",
+                "file": "Shellcode/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +89,8 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Shellcode/Basics.md",
+    "Basics/ffuf.md",
     "Boxes/TryHackMe/blog/01 - enumeration.md",
     "Boxes/TryHackMe/internal/01 - enumeration.md",
     "Basics/AWS/ECR.md",
@@ -95,8 +98,6 @@
     "Basics/AWS/IAMs.md",
     "Basics/AWS/General.md",
     "Basics/AWS/ARNs.md",
-    "Basics/AWS/Untitled.md",
-    "Basics/Windows Tools and Commands/LEADUP.md",
-    "Basics/xfreerdp.md"
+    "Basics/AWS/Untitled.md"
   ]
 }
