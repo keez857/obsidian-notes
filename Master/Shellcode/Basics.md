@@ -25,6 +25,13 @@ sometimes known as a program counter `pc`
 
 ** To access `rip` 
 
+
+---
+
+### file descriptor
+
+also refered to as 'fd' this is usually stdin(0), stdin(1), stderror(2)
+
 ---
 
 
