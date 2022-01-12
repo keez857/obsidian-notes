@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Priv Esc/Common Paths.md",
+            "file": "Rev shells/php.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Priv Esc/Common Paths.md",
+                "file": "Rev shells/php.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Priv Esc/Common Paths.md",
-    "Priv Esc/Directories to search.md",
-    "Basics/Pivoting/Chisel/Remote Port Forward.md",
-    "Basics/Pivoting/Chisel/Local Port Forward.md",
-    "Basics/Pivoting/Chisel/General.md",
-    "Shellcode/Basics.md",
-    "Basics/ffuf.md",
-    "Boxes/TryHackMe/blog/01 - enumeration.md",
-    "Boxes/TryHackMe/internal/01 - enumeration.md",
-    "Basics/AWS/ECR.md"
+    "Rev shells/php.md",
+    "Basics/Enumeration/recon-ng.md",
+    "Injection/XXE.md",
+    "Basics/Linux Commands/ltrace.md",
+    "Basics/Linux Commands/grep.md",
+    "Basics/Linux Commands/find.md",
+    "Basics/SQL/SQLmap.md",
+    "Basics/SQL/SQLi.md",
+    "Basics/SQL/MySQL.md",
+    "Basics/msfvenom.md"
   ]
 }
