@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Shellcode/Basics.md",
+            "file": "Priv Esc/Enumeration.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chisel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shellcode/Basics.md",
+                "file": "Priv Esc/Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Priv Esc/Enumeration.md",
+    "Priv Esc/Directories to search.md",
+    "Basics/Pivoting/Chisel/Remote Port Forward.md",
+    "Basics/Pivoting/Chisel/Local Port Forward.md",
+    "Basics/Pivoting/Chisel/General.md",
     "Shellcode/Basics.md",
     "Basics/ffuf.md",
     "Boxes/TryHackMe/blog/01 - enumeration.md",
     "Boxes/TryHackMe/internal/01 - enumeration.md",
-    "Basics/AWS/ECR.md",
-    "Basics/AWS/Secrets Manager.md",
-    "Basics/AWS/IAMs.md",
-    "Basics/AWS/General.md",
-    "Basics/AWS/ARNs.md",
-    "Basics/AWS/Untitled.md"
+    "Basics/AWS/ECR.md"
   ]
 }

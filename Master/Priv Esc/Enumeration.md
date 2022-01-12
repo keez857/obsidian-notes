@@ -1,34 +1,38 @@
-**finding SUID binaries**
+## finding SUID binaries
  ```bash
 find / -user root -perm /4000 2>/dev/null  
 find / -perm -u=s -type f 2>/dev/null
 find / -type f -perm -4000 2>/dev/null
 ```
-  
-**Finding SUID/SGID executables**  
+
+---
+
+## finding SUID/SGID executables
 ```bash
 
 find / -type f -a \( -perm -u+s -o -perm -g+s \) -exec ls -l {} \; 2>/dev/null  
   
 ```
-  
-  **Check groups**
-  `groups`
-  
-  
-**Check /etc/chron for cronjobs**  
-`cat /etc/crontab`  or `/etc/cron.d`  or `crontab -l`
+ ---
+
+ **Check groups**
+`groups`
   
   
-**Check /var/www/**  
+**cronjobs**  
+`cat /etc/crontab` 
+`cat /etc/cron.d`  
+`crontab -l`
+  
+## directories to search
+/var/www/
+/opt/
+
   
 **Check netstat -plant or -l** 
   
 `Look for SSH keys /home/<user>/.ssh`
 	
-
-check /opt
 	
-	
-check for txt files
+### check for txt files
 `find / -iname "*.txt"`
