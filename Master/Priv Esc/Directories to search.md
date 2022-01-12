@@ -1,3 +1,0 @@
-### web directory
-/var/www
-
