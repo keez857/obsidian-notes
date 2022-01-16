@@ -7,9 +7,10 @@ remove all trailing whitespaces
 
 
 ### visual block
-`ctrl + v` use motion commands to select whitespace. x to cut
+`ctrl + v` use motion commands to select whitespace. 
+`x` to cut
 
-### recording macro
+### recording macros
 `q <any letter>` this is will record macro to whatever letter. q will end the recording
 
 invoking the macro - `<any number> @ <macro key>`

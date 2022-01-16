@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rev shells/php.md",
+            "file": "Basics/vim.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rev shells/php.md",
+                "file": "Basics/vim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Basics/vim.md",
+    "Basics/Enumeration/SMB.md",
+    "Basics/Enumeration/feroxbuster.md",
+    "Basics/ffuf.md",
     "Rev shells/php.md",
     "Basics/Enumeration/recon-ng.md",
     "Injection/XXE.md",
     "Basics/Linux Commands/ltrace.md",
     "Basics/Linux Commands/grep.md",
-    "Basics/Linux Commands/find.md",
-    "Basics/SQL/SQLmap.md",
-    "Basics/SQL/SQLi.md",
-    "Basics/SQL/MySQL.md",
-    "Basics/msfvenom.md"
+    "Basics/Linux Commands/find.md"
   ]
 }
