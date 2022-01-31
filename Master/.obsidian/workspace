@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/PEH/Kioptrix.md",
+            "file": "Courses/PEH/Kioptrix/01 - scans.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/PEH/Kioptrix.md",
+                "file": "Courses/PEH/Kioptrix/01 - scans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Courses/PEH/Kioptrix.md",
-    "Basics/vim.md",
-    "Basics/Enumeration/SMB.md",
+    "Courses/PEH/Kioptrix/01 - scans.md",
+    "Basics/Enumeration/nikto.md",
     "Basics/Enumeration/feroxbuster.md",
+    "Courses/PEH/Kioptrix/02 - enumeration.md",
+    "Basics/Enumeration/SMB.md",
+    "Basics/vim.md",
     "Basics/ffuf.md",
     "Rev shells/php.md",
     "Basics/Enumeration/recon-ng.md",
-    "Injection/XXE.md",
-    "Basics/Linux Commands/ltrace.md",
-    "Basics/Linux Commands/grep.md"
+    "Injection/XXE.md"
   ]
 }
