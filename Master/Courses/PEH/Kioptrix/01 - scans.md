@@ -73,7 +73,7 @@ Host script results:
 ### gobuster
 
 ```
-gobuster dir -u 192.168.120.134 -w /usr/share/wordlists/dirb/common.txt                                       
+gobuster dir -u 192.168.120.134 -w /usr/share/wordlists/dirb/common.txt  -x php,txt                       
 ===============================================================
 Gobuster v3.1.0
 by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
@@ -84,19 +84,27 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
 [+] Wordlist:                /usr/share/wordlists/dirb/common.txt
 [+] Negative Status codes:   404
 [+] User Agent:              gobuster/3.1.0
+[+] Extensions:              php,txt
 [+] Timeout:                 10s
 ===============================================================
-2022/01/31 01:33:47 Starting gobuster in directory enumeration mode
+2022/01/31 02:02:40 Starting gobuster in directory enumeration mode
 ===============================================================
+/.hta.txt             (Status: 403) [Size: 272]
+/.htpasswd.txt        (Status: 403) [Size: 277]
+/.htaccess.txt        (Status: 403) [Size: 277]
 /.hta                 (Status: 403) [Size: 268]
-/.htaccess            (Status: 403) [Size: 273]
 /.htpasswd            (Status: 403) [Size: 273]
+/.hta.php             (Status: 403) [Size: 272]
+/.htaccess            (Status: 403) [Size: 273]
+/.htpasswd.php        (Status: 403) [Size: 277]
+/.htaccess.php        (Status: 403) [Size: 277]
 /~operator            (Status: 403) [Size: 273]
 /~root                (Status: 403) [Size: 269]
 /cgi-bin/             (Status: 403) [Size: 272]
 /index.html           (Status: 200) [Size: 2890]
 /manual               (Status: 301) [Size: 294] [--> http://127.0.0.1/manual/]
 /mrtg                 (Status: 301) [Size: 292] [--> http://127.0.0.1/mrtg/]  
+/test.php             (Status: 200) [Size: 27]                                
 /usage                (Status: 301) [Size: 293] [--> http://127.0.0.1/usage/]
 ```
 

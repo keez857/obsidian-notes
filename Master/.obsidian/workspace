@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/PEH/Kioptrix/01 - scans.md",
+            "file": "Basics/Enumeration/SMB.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chisel",
+                "query": "enum4linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/PEH/Kioptrix/01 - scans.md",
+                "file": "Basics/Enumeration/SMB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Courses/PEH/Kioptrix/01 - scans.md",
-    "Basics/Enumeration/nikto.md",
-    "Basics/Enumeration/feroxbuster.md",
-    "Courses/PEH/Kioptrix/02 - enumeration.md",
     "Basics/Enumeration/SMB.md",
+    "Boxes/HackTheBox/Return/00 - enum.md",
+    "Boxes/TryHackMe/relevant/01 - enumeration.md",
+    "Courses/PEH/Kioptrix/02 - enumeration.md",
+    "Courses/PEH/Kioptrix/01 - scans.md",
+    "Basics/Enumeration/feroxbuster.md",
+    "Basics/Enumeration/nikto.md",
     "Basics/vim.md",
     "Basics/ffuf.md",
-    "Rev shells/php.md",
-    "Basics/Enumeration/recon-ng.md",
-    "Injection/XXE.md"
+    "Rev shells/php.md"
   ]
 }
