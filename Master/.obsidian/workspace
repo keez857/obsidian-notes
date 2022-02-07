@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/HackTheBox/Paper/03 - rocket chat.md",
+            "file": "Boxes/HackTheBox/Paper/04 - foothold.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/HackTheBox/Paper/03 - rocket chat.md",
+                "file": "Boxes/HackTheBox/Paper/04 - foothold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Boxes/HackTheBox/Paper/04 - foothold.md",
     "Boxes/HackTheBox/Paper/03 - rocket chat.md",
     "Boxes/HackTheBox/Paper/02 - enum explained.md",
     "Boxes/HackTheBox/Paper/01 - enumeration 2.md",
@@ -97,7 +98,6 @@
     "Basics/ffuf.md",
     "Basics/Enumeration/gobuster.md",
     "Basics/Enumeration/feroxbuster.md",
-    "Basics/Enumeration/nikto.md",
-    "Basics/Enumeration/searchsploit.md"
+    "Basics/Enumeration/nikto.md"
   ]
 }

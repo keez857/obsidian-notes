@@ -78,5 +78,39 @@ We explore this directory and find `start_bot.sh`
     /home/dwight/hubot/bin/hubot  
     #cd -
     
--   <!=====End of file ../hubot/start_[bot.sh](http://bot.sh)=====>
+-   <!=====End of file ../hubot/start_bot.sh=====>
 ```
+
+This prompts me to take a look at `../hubot/.env`
+
+```
+-   <!=====Contents of file ../hubot/.env=====>
+    
+-   export ROCKETCHAT_URL='[http://127.0.0.1:48320](http://127.0.0.1:48320)'  
+    export ROCKETCHAT_USER=recyclops  
+    export ROCKETCHAT_PASSWORD=Queenofblad3s!23  
+    export ROCKETCHAT_USESSL=false  
+    export RESPOND_TO_DM=true  
+    export RESPOND_TO_EDITED=true  
+    export PORT=8000  
+    export BIND_ADDRESS=127.0.0.1
+    
+-   export ROCKETCHAT_URL='[http://127.0.0.1:48320](http://127.0.0.1:48320)'  
+    export ROCKETCHAT_USER=recyclops  
+    export ROCKETCHAT_PASSWORD=Queenofblad3s!23  
+    export ROCKETCHAT_USESSL=false  
+    export RESPOND_TO_DM=true  
+    export RESPOND_TO_EDITED=true  
+    export PORT=8000  
+    export BIND_ADDRESS=127.0.0.1
+    
+-   <!=====End of file ../hubot/.env=====>
+```
+
+Looks like we have the rocketchat pw for recyclops
+
+It won't let me log into rocketchat with this password, but perhaps Dwight reused this password for ssh.
+
+He did. We have ssh access with dwight now
+
+`dwight:Queenofblad3s!23`
