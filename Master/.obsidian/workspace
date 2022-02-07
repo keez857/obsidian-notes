@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/HackTheBox/Paper/04 - foothold.md",
+            "file": "Boxes/HackTheBox/Paper/04 - foothold and priv esc.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.01218795776367
+    "width": 248.01218795776367
   },
   "right": {
     "id": "4851d56fedb733fb",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/HackTheBox/Paper/04 - foothold.md",
+                "file": "Boxes/HackTheBox/Paper/04 - foothold and priv esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Boxes/HackTheBox/Paper/04 - foothold.md",
+    "Boxes/HackTheBox/Paper/04 - foothold and priv esc.md",
+    "Priv Esc/Common Paths.md",
     "Boxes/HackTheBox/Paper/03 - rocket chat.md",
+    "Basics/Pivoting/SSH Tunnelling/Forward connections.md",
+    "Basics/Pivoting/SSH Tunnelling/Reverse connections.md",
+    "Basics/Pivoting/Chisel/Local Port Forward.md",
+    "Basics/Linux Commands/find.md",
     "Boxes/HackTheBox/Paper/02 - enum explained.md",
     "Boxes/HackTheBox/Paper/01 - enumeration 2.md",
-    "Basics/Enumeration/wordpress.md",
-    "Boxes/HackTheBox/Paper/00 - enumeration.md",
-    "Basics/ffuf.md",
-    "Basics/Enumeration/gobuster.md",
-    "Basics/Enumeration/feroxbuster.md",
-    "Basics/Enumeration/nikto.md"
+    "Basics/Enumeration/wordpress.md"
   ]
 }

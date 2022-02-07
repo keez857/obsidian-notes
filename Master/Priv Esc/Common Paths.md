@@ -36,7 +36,7 @@ find / -type f -a \( -perm -u+s -o -perm -g+s \) -exec ls -l {} \; 2>/dev/null
 ---
 
 ### check open ports
-`netstat -plant`
+`netstat -plant or tunlp`
 
 ---
 
@@ -48,3 +48,7 @@ find / -type f -a \( -perm -u+s -o -perm -g+s \) -exec ls -l {} \; 2>/dev/null
 	
 ### searching for for txt files
 `find / -iname "*.txt"`
+
+
+### os enumeration
+`hostnamectl`
