@@ -4,6 +4,11 @@
 ffuf -w /usr/share/wordlists/SecLists/Discovery/DNS/namelist.txt -H "Host: FUZZ.acmeitsupport.thm" -u http://10.10.221.132
 ```
 
+```sh
+ffuf -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-small.txt \
+-u http://forge.htb -H 'Host: FUZZ.forge.htb' -fc 302
+```
+
 ---
 
 ### username enum (login error code)

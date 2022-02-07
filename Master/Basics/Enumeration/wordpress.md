@@ -5,7 +5,7 @@ wpscan --url <url> -e vp,vt,u
 
 ### brute forcing password with username
 ```
-wpscan --url http://10.10.228.176/ -U <usernames> --passwords
+wpscan --url http://target.ip/ -U <usernames> --passwords
 /usr/share/wordlists/rockyou.txt
 ```
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/HackTheBox/Paper/00 - enumeration.md",
+            "file": "Boxes/HackTheBox/Paper/03 - rocket chat.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/HackTheBox/Paper/00 - enumeration.md",
+                "file": "Boxes/HackTheBox/Paper/03 - rocket chat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Boxes/HackTheBox/Paper/03 - rocket chat.md",
+    "Boxes/HackTheBox/Paper/02 - enum explained.md",
+    "Boxes/HackTheBox/Paper/01 - enumeration 2.md",
+    "Basics/Enumeration/wordpress.md",
     "Boxes/HackTheBox/Paper/00 - enumeration.md",
+    "Basics/ffuf.md",
+    "Basics/Enumeration/gobuster.md",
     "Basics/Enumeration/feroxbuster.md",
     "Basics/Enumeration/nikto.md",
-    "Basics/Enumeration/searchsploit.md",
-    "Courses/PEH/Kioptrix/02 - enumeration.md",
-    "Basics/Enumeration/SMB.md",
-    "Boxes/HackTheBox/Return/00 - enum.md",
-    "Boxes/TryHackMe/relevant/01 - enumeration.md",
-    "Courses/PEH/Kioptrix/01 - scans.md",
-    "Basics/vim.md"
+    "Basics/Enumeration/searchsploit.md"
   ]
 }

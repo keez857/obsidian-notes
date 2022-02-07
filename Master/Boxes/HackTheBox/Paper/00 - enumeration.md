@@ -61,3 +61,4 @@ nikto -h http://paper.htb
 + OSVDB-3233: /icons/README: Apache default file found.
 
 ```
+
