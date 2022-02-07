@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/Enumeration/SMB.md",
+            "file": "Boxes/HackTheBox/Paper/00 - enumeration.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.01218795776367
+    "width": 245.01218795776367
   },
   "right": {
     "id": "4851d56fedb733fb",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/Enumeration/SMB.md",
+                "file": "Boxes/HackTheBox/Paper/00 - enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Boxes/HackTheBox/Paper/00 - enumeration.md",
+    "Basics/Enumeration/feroxbuster.md",
+    "Basics/Enumeration/nikto.md",
+    "Basics/Enumeration/searchsploit.md",
+    "Courses/PEH/Kioptrix/02 - enumeration.md",
     "Basics/Enumeration/SMB.md",
     "Boxes/HackTheBox/Return/00 - enum.md",
     "Boxes/TryHackMe/relevant/01 - enumeration.md",
-    "Courses/PEH/Kioptrix/02 - enumeration.md",
     "Courses/PEH/Kioptrix/01 - scans.md",
-    "Basics/Enumeration/feroxbuster.md",
-    "Basics/Enumeration/nikto.md",
-    "Basics/vim.md",
-    "Basics/ffuf.md",
-    "Rev shells/php.md"
+    "Basics/vim.md"
   ]
 }
