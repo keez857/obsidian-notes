@@ -90,6 +90,7 @@
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
     "Courses/PEH/Kioptrix/02 - enumeration.md",
+    "Courses/PEH/Kioptrix/03 - exploit.md",
     "Courses/PEH/Kioptrix/01 - scans.md",
     "Basics/Linux Commands/system info.md",
     "Boxes/HackTheBox/Paper/04 - foothold and priv esc.md",
@@ -97,7 +98,6 @@
     "Boxes/HackTheBox/Paper/03 - rocket chat.md",
     "Basics/Pivoting/SSH Tunnelling/Forward connections.md",
     "Basics/Pivoting/SSH Tunnelling/Reverse connections.md",
-    "Basics/Pivoting/Chisel/Local Port Forward.md",
-    "Basics/Linux Commands/find.md"
+    "Basics/Pivoting/Chisel/Local Port Forward.md"
   ]
 }
