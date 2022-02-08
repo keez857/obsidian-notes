@@ -13,3 +13,8 @@ Webalizer v2.01
 
 ---
 
+### samba enum
+
+`searchsploit samba 2.2`
+
+There are numerous Remote Buffer Overflow exploits for samba 2.2
