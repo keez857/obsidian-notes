@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/HackTheBox/Pandora/01 - enumeration 1.md",
+            "file": "Boxes/HackTheBox/Pandora/04 - priv esc.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/HackTheBox/Pandora/01 - enumeration 1.md",
+                "file": "Boxes/HackTheBox/Pandora/04 - priv esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,11 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Boxes/HackTheBox/Pandora/04 - priv esc.md",
     "Boxes/HackTheBox/Pandora/01 - enumeration 1.md",
     "Boxes/HackTheBox/Pandora/02 - foothold.md",
     "Boxes/HackTheBox/Pandora/03 - user.md",
     "Basics/Pivoting/SSH Tunnelling/Forward connections.md",
-    "Boxes/HackTheBox/Pandora/04 - priv esc.md",
     "Priv Esc/Common Paths.md",
     "Boxes/HackTheBox/Paper/04 - foothold and priv esc.md",
     "Boxes/HackTheBox/Paper/00 - enumeration.md",
