@@ -20,6 +20,11 @@ find / -type f -a \( -perm -u+s -o -perm -g+s \) -exec ls -l {} \; 2>/dev/null
 
 ---
 
+## overwriting $PATH
+`export PATH=/tmp:$PATH`
+
+---
+
 ### cronjobs
 
 `cat /etc/crontab` 
@@ -50,5 +55,3 @@ find / -type f -a \( -perm -u+s -o -perm -g+s \) -exec ls -l {} \; 2>/dev/null
 `find / -iname "*.txt"`
 
 
-### os enumeration
-`hostnamectl`
