@@ -30,8 +30,10 @@ This will open up port 1337 on your attacking box as a proxy to send data throug
 
 ---
 
-From attacker de
+From attacker device:
 
 ```
 ssh -L <port_of_choosing_on_attack>:127.0.0.1:<victim_port_i_want_forwarded> user@victim_machine
 ```
+
+You should be able to access at `localhost:<port you chose>`

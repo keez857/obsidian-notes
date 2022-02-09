@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/Pivoting/SSH Tunnelling/Forward connections.md",
+            "file": "Boxes/HackTheBox/Pandora/02 - foothold.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/Pivoting/SSH Tunnelling/Forward connections.md",
+                "file": "Boxes/HackTheBox/Pandora/02 - foothold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Basics/Pivoting/SSH Tunnelling/Forward connections.md",
     "Boxes/HackTheBox/Pandora/02 - foothold.md",
+    "Boxes/HackTheBox/Pandora/03 - user.md",
+    "Boxes/HackTheBox/Pandora/04 - priv esc.md",
+    "Priv Esc/Common Paths.md",
     "Boxes/HackTheBox/Paper/04 - foothold and priv esc.md",
+    "Boxes/HackTheBox/Paper/00 - enumeration.md",
+    "Basics/Shell Stabilization.md",
+    "Basics/Pivoting/SSH Tunnelling/Forward connections.md",
     "Boxes/HackTheBox/Pandora/01 - enumeration 1.md",
-    "Basics/Enumeration/feroxbuster.md",
-    "Courses/PEH/Kioptrix/03 - exploit.md",
-    "Courses/PEH/Kioptrix/02 - enumeration.md",
-    "Courses/PEH/Kioptrix/01 - scans.md",
-    "Basics/Linux Commands/system info.md",
-    "Priv Esc/Common Paths.md"
+    "Basics/Enumeration/feroxbuster.md"
   ]
 }
