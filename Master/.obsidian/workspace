@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/HackTheBox/nunchucks/02 - enum part 2.md",
+            "file": "CTF/defcamp 2022/web basic.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.01218795776367
+    "width": 245.01218795776367
   },
   "right": {
     "id": "4851d56fedb733fb",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/HackTheBox/nunchucks/02 - enum part 2.md",
+                "file": "CTF/defcamp 2022/web basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Boxes/HackTheBox/nunchucks/02 - enum part 2.md",
+    "CTF/defcamp 2022/web basic.md",
     "Basics/Pivoting/SSH Tunnelling/SOCKS proxy.md",
+    "Boxes/HackTheBox/nunchucks/02 - enum part 2.md",
     "Boxes/HackTheBox/nunchucks/01 - enum.md",
     "Basics/ffuf.md",
     "Basics/Enumeration/feroxbuster.md",
     "Priv Esc/Common Paths.md",
     "Boxes/HackTheBox/Pandora/04 - priv esc.md",
     "Boxes/HackTheBox/Pandora/01 - enumeration 1.md",
-    "Boxes/HackTheBox/Pandora/02 - foothold.md",
-    "Boxes/HackTheBox/Pandora/03 - user.md"
+    "Boxes/HackTheBox/Pandora/02 - foothold.md"
   ]
 }
