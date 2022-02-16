@@ -8,3 +8,6 @@ Original cookie
 base64 decodes to
 
 `{"logged_in":false}`
+
+
+eyJsb2dnZWRfaW4iOnRydWV9
