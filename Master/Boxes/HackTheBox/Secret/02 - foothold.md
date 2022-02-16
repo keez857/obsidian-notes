@@ -27,5 +27,18 @@ Be sure to include `content-type`
 Our JWT token
 
 ```
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjBjODU0ZjUzNmUwNTA0NGExM2U0MzAiLCJuYW1lIjoiYWRtaW5uIiwiZW1haWwiOiJhc2RmQGFkc2YuY29tIiwiaWF0IjoxNjQ0OTg4MDcwfQ.2wxXObsM9vGlIcc3TNUQP5T9td9NMyLrN0RRugtO57o
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjBjODljM2Q4ZGI1NTA0NGRlZjY0MmYiLCJuYW1lIjoiYWRtaW5uIiwiZW1haWwiOiJhc2RmQGFkc2YuY29tIiwiaWF0IjoxNjQ0OTg4ODk5fQ.5xy6ixmtqXI35ix20TV4x8enAzO7VPM0XFu4ku7QYc4
 ```
+
+
+
+Looked at git commit history
+
+`git diff de0a46b5107a2f4d26e348303e76d85ae4870934 `
+
+We find an old secret:
+
+`gXr67TtoQL8TShUc8XYsK2HvsBYfyQSFCFZe4MQp7gRpFuMkKjcM72CNQN4fMfbZEKx4i7YiWuNAkmuTcdEriCMm9vPAYkhpwPTiuVwVhvwE`
+
+
+We craft a JWT token with the exact payload dasith used in his docs and sign it with the secret we found (do not check base64 encode)
