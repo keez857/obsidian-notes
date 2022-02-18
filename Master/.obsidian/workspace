@@ -91,13 +91,13 @@
   "lastOpenFiles": [
     "Boxes/HackTheBox/Secret/03 - user.md",
     "Boxes/HackTheBox/Secret/02 - foothold.md",
+    "Priv Esc/Common Paths.md",
     "Boxes/HackTheBox/nunchucks/01 - enum.md",
     "Boxes/HackTheBox/nunchucks/02 - enum part 2.md",
     "Boxes/HackTheBox/Return/01 - enum 2.md",
     "Boxes/HackTheBox/Return/00 - enum.md",
     "Boxes/HackTheBox/Return/02 - foothold.md",
     "Boxes/HackTheBox/Secret/01 - enum.md",
-    "CTF/defcamp 2022/web basic.md",
-    "Basics/Pivoting/SSH Tunnelling/SOCKS proxy.md"
+    "CTF/defcamp 2022/web basic.md"
   ]
 }
