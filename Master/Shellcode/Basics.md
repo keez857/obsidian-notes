@@ -120,5 +120,15 @@ this is intel architecture format
 `add [dest], [source]` you would add `dest` and `source` and store into `dest`
 
 
+---  
 
 
+## stack
+
+Stores temporary parameters, like variables/parameters in functions
+
+Example would be inputting a username into a login page. The username is stored on the stack to be used by the program later on.
+
+
+RETURN ADDRESS - when a new function is called the program creates a new stack frame.
+At the bottom is a return address that tells the CPU where to go next.
