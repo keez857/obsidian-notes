@@ -132,3 +132,24 @@ Example would be inputting a username into a login page. The username is stored 
 
 RETURN ADDRESS - when a new function is called the program creates a new stack frame.
 At the bottom is a return address that tells the CPU where to go next.
+
+
+---
+
+## how assembly interacts with the stack
+
+
+`push <operand>`
+decrements ESP then places the operand (a register, address, etc) on top of the stock (stack grows)
+ex: `push EAX`
+
+
+`pop <operand>`
+opposite of push. 
+loads the value from the top of the stack into the location specified in the operand, then increments ESP (stack shrinks)
+ex: `pop EAX`
+
+
+`ret`
+transfers program to control to a return address located at top of the stack
+takes 4 bytes on top of stack and puts into instruction pointer
