@@ -53,10 +53,13 @@ counter register - loop operations
 data register - I/O pointer
 
 `rdi`
+destination index - data pointer for memory operations
 
 `rsi`
+source index - data pointer for memory operations
 
 `rbp`
+stack base point register
 
 `rsp`
-
+stack pointer register
