@@ -103,12 +103,17 @@ stack pointer register
 ```
 
 `label` - used to represent identifier or a constant
+
 `mnemonic` - identifies purpose of statement (not required if a line contains only a label or a comment)
+
 `operands` - specifies data to be manipulated (most instructions take two operands)
+
 `comment` - text ignored by assembler
+
 
 example
 `add eax, ebc ; EAX = EAX+EBX`
+
 
 add is the mnemonic, eax and ebc are the operands
 this is intel architecture format
