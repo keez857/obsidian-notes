@@ -58,11 +58,12 @@ destination index - data pointer for memory operations
 `rsi`
 source index - data pointer for memory operations
 
-`rbp`
-stack base point register
 
 `rsp`
 stack pointer register
+
+`rbp`
+stack base point register. usually right under rsp, followed by rip
 
 ---
 
