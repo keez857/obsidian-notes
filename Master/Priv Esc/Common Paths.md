@@ -30,6 +30,8 @@ find / -type f -a \( -perm -u+s -o -perm -g+s \) -exec ls -l {} \; 2>/dev/null
 `cat /etc/crontab` 
 `cat /etc/cron.d`  
 `crontab -l`
+`crontab -e`
+
   ---
   
 ## directories to search

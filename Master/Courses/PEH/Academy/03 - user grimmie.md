@@ -22,7 +22,5 @@ I tried logging into SSH with the same creds and was successful
 
 ---
 
-onlinecourse.sql can be found here:
 
-`/var/www/html/academy/db/onlinecourse.sql`
 
