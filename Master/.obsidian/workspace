@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/HackTheBox/undetected/02 - foothold.md",
+            "file": "Courses/PEH/Academy/03 - user grimmie.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/HackTheBox/undetected/02 - foothold.md",
+                "file": "Courses/PEH/Academy/03 - user grimmie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Boxes/HackTheBox/undetected/02 - foothold.md",
-    "Boxes/HackTheBox/Secret/03 - user.md",
+    "Courses/PEH/Academy/03 - user grimmie.md",
+    "Courses/PEH/Academy/01 - enum.md",
+    "Courses/PEH/Academy/02 - foothold.md",
     "Basics/Shell Stabilization.md",
-    "Basics/Linux Commands/system info.md",
-    "Basics/LFI - PHP.md",
+    "Basics/SQL/SQLi.md",
+    "Boxes/HackTheBox/undetected/02 - foothold.md",
     "Basics/ftp and smb tricks.md",
-    "Boxes/HackTheBox/Secret/02 - foothold.md",
-    "Boxes/HackTheBox/Secret/01 - enum.md",
-    "Boxes/HackTheBox/undetected/01 - enum.md",
-    "Basics/Enumeration/gobuster.md"
+    "Boxes/HackTheBox/Secret/03 - user.md",
+    "Basics/Linux Commands/system info.md",
+    "Basics/LFI - PHP.md"
   ]
 }
