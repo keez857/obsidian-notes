@@ -80,4 +80,6 @@ do echo "$user"1":x:$group:$group:,,,:$home:$shell" >> /etc/passwd; done < users
 ```
 
 
-`1:$6$zS7ykHfFMg3aYht4$1IUrhZanRuDZhf1oIdnoOvXoolKmlwbkegBXk.VtGg78eL7WBM6OrNtGbZxKBtPu8Ufm9hM0R/BLdACoQ0T9n/:18813:0:99999:7:::`
+`$6$zS7ykHfFMg3aYht4$1IUrhZanRuDZhf1oIdnoOvXoolKmlwbkegBXk.VtGg78eL7WBM6OrNtGbZxKBtPu8Ufm9hM0R/BLdACoQ0T9n/`
+
+We are able to crack this using hashcat and get the password for `steven1:ihatehackers`
