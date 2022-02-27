@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "04 - root.md",
+            "file": "Courses/PEH/dev/01 - enum.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 - root.md",
+                "file": "Courses/PEH/dev/01 - enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Courses/PEH/dev/01 - enum.md",
+    "Courses/PEH/dev/02 - foothold.md",
     "04 - root.md",
     "Courses/PEH/Academy/03 - user grimmie.md",
     "Priv Esc/Common Paths.md",
@@ -96,8 +98,6 @@
     "Courses/PEH/Academy/02 - foothold.md",
     "Basics/Shell Stabilization.md",
     "Basics/SQL/SQLi.md",
-    "Boxes/HackTheBox/undetected/02 - foothold.md",
-    "Basics/ftp and smb tricks.md",
-    "Boxes/HackTheBox/Secret/03 - user.md"
+    "Boxes/HackTheBox/undetected/02 - foothold.md"
   ]
 }
