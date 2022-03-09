@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Courses/PEH/butler 192.168.120.137/04 - root.md",
+            "file": "Courses/PEH/blackpearl 192.168.120.138/01 - enum.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Courses/PEH/butler 192.168.120.137/04 - root.md",
+                "file": "Courses/PEH/blackpearl 192.168.120.138/01 - enum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Courses/PEH/blackpearl 192.168.120.138/01 - enum.md",
+    "Courses/PEH/blackpearl 192.168.120.138/02 - foothold.md",
+    "Courses/PEH/blackpearl.md",
     "Courses/PEH/butler 192.168.120.137/04 - root.md",
     "Basics/Windows Tools and Commands/Web Request.md",
     "Courses/PEH/butler 192.168.120.137/03 - user.md",
     "Priv Esc/Windows Common Paths.md",
     "Basics/Windows Tools and Commands/Enumeration/PowerView.md",
     "Basics/Windows Tools and Commands/Enumeration/Bloodhound.md",
-    "Basics/Windows Tools and Commands/Enumeration/Maintain Access.md",
-    "Basics/Windows Tools and Commands/Enumeration/Command Line.md",
-    "Courses/PEH/butler 192.168.120.137/02 - foothold.md",
-    "Courses/PEH/butler 192.168.120.137/01 - enum.md"
+    "Basics/Windows Tools and Commands/Enumeration/Maintain Access.md"
   ]
 }
