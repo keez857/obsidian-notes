@@ -29,3 +29,22 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 ```
 /navigate             (Status: 301) [Size: 185] [--> http://blackpearl.tcm/navigate/]
 ```
+
+
+## gobuster /navigate
+
+```
+/img                  (Status: 301) [Size: 185] [--> http://blackpearl.tcm/navigate/img/]
+/themes               (Status: 301) [Size: 185] [--> http://blackpearl.tcm/navigate/themes/]
+/web                  (Status: 301) [Size: 185] [--> http://blackpearl.tcm/navigate/web/]   
+/plugins              (Status: 301) [Size: 185] [--> http://blackpearl.tcm/navigate/plugins/]
+/css                  (Status: 301) [Size: 185] [--> http://blackpearl.tcm/navigate/css/]    
+/updates              (Status: 301) [Size: 185] [--> http://blackpearl.tcm/navigate/updates/]
+/lib                  (Status: 301) [Size: 185] [--> http://blackpearl.tcm/navigate/lib/]    
+/README               (Status: 200) [Size: 1395]                                             
+/js                   (Status: 301) [Size: 185] [--> http://blackpearl.tcm/navigate/js/]     
+/private              (Status: 301) [Size: 185] [--> http://blackpearl.tcm/navigate/private/]
+/cache                (Status: 301) [Size: 185] [--> http://blackpearl.tcm/navigate/cache/]  
+/cfg                  (Status: 301) [Size: 185] [--> http://blackpearl.tcm/navigate/cfg/]    
+
+```

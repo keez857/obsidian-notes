@@ -23,4 +23,16 @@ this was a mistake
 
 Since we know there is DNS running on the box, we run dnsrecon and see that there is a record for `blackpearl.tcm`
 
-If we change the /etc/hosts file for the ip to point to `blackpearl.tcm`  instead, we get what we need. 
+If we change the /etc/hosts file for the ip to point to `blackpearl.tcm`  
+
+We now see a different page when navigating to `blackpearl.tcm`
+
+We run gobuster again for the new domain and we find `blackpearl.tcm/navigate`
+
+---
+
+## navigate CMS
+
+There is a metasploit module that uses and RCE exploit for this. Remember when settings options to set vhost to `blackpearl.tcm`
+
+This gives us a shell as `var-www`
