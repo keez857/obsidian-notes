@@ -4,4 +4,4 @@
 ---
 
 ## vhosts
-`gobuster vhosts -d mysite.com -w /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-110000.txt -k -r -t 25``
+`gobuster vhosts -u mysite.com -w /usr/share/wordlists/seclists/Discovery/DNS/subdomains-top1million-110000.txt -k -r -t 25``

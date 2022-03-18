@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/LFI - PHP.md",
+            "file": "Boxes/HackTheBox/Love/02 - foothold.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/LFI - PHP.md",
+                "file": "Boxes/HackTheBox/Love/02 - foothold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
+    "Boxes/HackTheBox/Love/02 - foothold.md",
+    "Priv Esc/Linux Common Paths.md",
+    "Priv Esc/Windows Common Paths.md",
+    "Boxes/HackTheBox/Love/01 - enum.md",
+    "Basics/Enumeration/gobuster.md",
+    "Basics/SQL/SQLi.md",
     "Basics/LFI - PHP.md",
     "Basics/xclip.md",
     "Courses/PEH/blackpearl 192.168.120.138/02 - foothold.md",
-    "Courses/PEH/blackpearl 192.168.120.138/01 - enum.md",
-    "Basics/msfvenom.md",
-    "Basics/ffuf.md",
-    "Courses/PEH/blackpearl.md",
-    "Courses/PEH/butler 192.168.120.137/04 - root.md",
-    "Basics/Windows Tools and Commands/Web Request.md",
-    "Courses/PEH/butler 192.168.120.137/03 - user.md"
+    "Courses/PEH/blackpearl 192.168.120.138/01 - enum.md"
   ]
 }
