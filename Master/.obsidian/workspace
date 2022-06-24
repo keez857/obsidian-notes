@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Boxes/HackTheBox/Love/02 - foothold.md",
+            "file": "Basics/Shell Stabilization.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enum4linux",
+                "query": "hashcat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxes/HackTheBox/Love/02 - foothold.md",
+                "file": "Basics/Shell Stabilization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Boxes/HackTheBox/Love/02 - foothold.md",
-    "Priv Esc/Linux Common Paths.md",
-    "Priv Esc/Windows Common Paths.md",
-    "Boxes/HackTheBox/Love/01 - enum.md",
+    "Basics/Shell Stabilization.md",
     "Basics/Enumeration/gobuster.md",
-    "Basics/SQL/SQLi.md",
-    "Basics/LFI - PHP.md",
+    "Basics/Windows Tools and Commands/Attack on AD/General.md",
+    "Basics/ffuf.md",
+    "Priv Esc/Linux Common Paths.md",
+    "Basics/vim.md",
     "Basics/xclip.md",
-    "Courses/PEH/blackpearl 192.168.120.138/02 - foothold.md",
-    "Courses/PEH/blackpearl 192.168.120.138/01 - enum.md"
+    "Basics/ftp and smb tricks.md",
+    "Basics/SQL/SQLmap.md",
+    "Basics/SQL/SQLi.md"
   ]
 }
