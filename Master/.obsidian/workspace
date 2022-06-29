@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Basics/Shell Stabilization.md",
+            "file": "Basics/Windows Tools and Commands/Enumeration/Command Line.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hashcat",
+                "query": "redis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.01218795776367
+    "width": 248.01218795776367
   },
   "right": {
     "id": "4851d56fedb733fb",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basics/Shell Stabilization.md",
+                "file": "Basics/Windows Tools and Commands/Enumeration/Command Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1076e0a22dc29b26",
   "lastOpenFiles": [
-    "Basics/Shell Stabilization.md",
-    "Basics/Enumeration/gobuster.md",
-    "Basics/Windows Tools and Commands/Attack on AD/General.md",
-    "Basics/ffuf.md",
-    "Priv Esc/Linux Common Paths.md",
-    "Basics/vim.md",
-    "Basics/xclip.md",
-    "Basics/ftp and smb tricks.md",
-    "Basics/SQL/SQLmap.md",
-    "Basics/SQL/SQLi.md"
+    "Basics/Windows Tools and Commands/Enumeration/Command Line.md",
+    "Boxes/TryHackMe/VulnNet/Active/Foothold.md",
+    "Basics/Enumeration/SMB.md",
+    "Basics/msfvenom.md",
+    "Basics/Windows Tools and Commands/Evil-WinRM.md",
+    "Boxes/TryHackMe/VulnNet/Active/Enum 1.md",
+    "Basics/Enumeration/searchsploit.md",
+    "Boxes/TryHackMe/VulnNet/Internal/03 - redis.md",
+    "Boxes/HackTheBox/Return/00 - enum.md",
+    "Boxes/HackTheBox/Paper/00 - enumeration.md"
   ]
 }
